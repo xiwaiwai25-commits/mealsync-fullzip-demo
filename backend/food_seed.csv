@@ -1,0 +1,831 @@
+﻿food_id,shop_id,shop_name,food_name,category,description,price_myr,type_of_food,parent_food_id,is_available,is_active,is_top_selling,is_todays_special,image_filename,custom_requirements_allowed,sort_order,data_status
+SHOP001-F001,SHOP001,Chinese,Chicken Rice,Rice Meals,Made fresh for satisfying meals,8.50,menu,,True,True,False,False,,True,1,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F002,SHOP001,Chinese,Roast Chicken Rice,Rice Meals,A popular choice for everyone,9.00,menu,,True,True,False,False,,True,2,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F003,SHOP001,Chinese,Char Siew Rice,Rice Meals,Freshly made with signature herbs,9.50,menu,,True,True,False,False,,True,3,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F004,SHOP001,Chinese,Siew Yuk Rice,Rice Meals,Freshly made with signature herbs,10.00,menu,,True,True,False,False,,True,4,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F005,SHOP001,Chinese,Wantan Mee,Noodles,A hearty choice for lunch,8.00,menu,,True,True,False,False,,True,5,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F006,SHOP001,Chinese,Curry Mee,Noodles,A hearty choice for lunch,8.50,menu,,True,True,False,False,,True,6,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F007,SHOP001,Chinese,Fried Kuey Teow,Noodles,Fresh ingredients in every bite,8.00,menu,,True,True,False,False,,True,7,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F008,SHOP001,Chinese,Hokkien Mee,Noodles,Made fresh for satisfying meals,9.00,menu,,True,True,False,False,,True,8,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F009,SHOP001,Chinese,Sweet and Sour Chicken,Hot Dishes,Fresh ingredients in every bite,9.00,menu,,True,True,False,False,,True,9,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F010,SHOP001,Chinese,Kung Pao Chicken,Hot Dishes,Fresh ingredients in every bite,9.50,menu,,True,True,False,False,,True,10,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F011,SHOP001,Chinese,Ginger Chicken,Hot Dishes,A hearty choice for lunch,9.00,menu,,True,True,False,False,,True,11,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F012,SHOP001,Chinese,Black Pepper Beef,Hot Dishes,Rich savoury flavours freshly prepared,11.00,menu,,True,True,False,False,,True,12,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F013,SHOP001,Chinese,Steamed Egg,Sides,Rich savoury flavours freshly prepared,3.00,menu,,True,True,False,False,,True,13,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F014,SHOP001,Chinese,Fried Egg,Sides,Rich savoury flavours freshly prepared,2.00,menu,,True,True,False,False,,True,14,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F015,SHOP001,Chinese,Stir-fried Cabbage,Vegetables,A popular choice for everyone,3.50,menu,,True,True,False,False,,True,15,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F016,SHOP001,Chinese,Sambal Kangkung,Vegetables,Rich savoury flavours freshly prepared,4.00,menu,,True,True,False,False,,True,16,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F017,SHOP001,Chinese,Tofu with Minced Meat,Hot Dishes,A hearty choice for lunch,6.00,menu,,True,True,False,False,,True,17,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F018,SHOP001,Chinese,Fried Fish,Hot Dishes,Fresh ingredients in every bite,7.00,menu,,True,True,False,False,,True,18,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F019,SHOP001,Chinese,Lemon Chicken,Hot Dishes,A hearty choice for lunch,9.50,menu,,True,True,False,False,,True,19,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-F020,SHOP001,Chinese,Salted Egg Chicken,Hot Dishes,Made fresh for satisfying meals,10.00,menu,,True,True,False,False,,True,20,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-T001,SHOP001,Chinese,Steamed White Rice,Tray Rice,A popular choice for everyone,2.00,tray,,True,True,False,False,,False,101,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-T002,SHOP001,Chinese,Roast Chicken,Tray Meat,A popular choice for everyone,4.50,tray,,True,True,False,False,,False,102,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-T003,SHOP001,Chinese,Sweet and Sour Pork,Tray Meat,Rich savoury flavours freshly prepared,4.50,tray,,True,True,False,False,,False,103,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-T004,SHOP001,Chinese,Ginger Chicken,Tray Meat,A hearty choice for lunch,4.00,tray,,True,True,False,False,,False,104,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-T005,SHOP001,Chinese,Fried Fish,Tray Meat,Fresh ingredients in every bite,4.50,tray,,True,True,False,False,,False,105,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-T006,SHOP001,Chinese,Braised Tofu,Tray Dish,Fresh ingredients in every bite,2.50,tray,,True,True,False,False,,False,106,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-T007,SHOP001,Chinese,Stir-fried Cabbage,Tray Vegetable,A popular choice for everyone,2.00,tray,,True,True,False,False,,False,107,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-T008,SHOP001,Chinese,Sambal Kangkung,Tray Vegetable,Rich savoury flavours freshly prepared,2.50,tray,,True,True,False,False,,False,108,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-T009,SHOP001,Chinese,Steamed Egg,Tray Dish,Rich savoury flavours freshly prepared,2.00,tray,,True,True,False,False,,False,109,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-T010,SHOP001,Chinese,Potato Curry,Tray Dish,A hearty choice for lunch,2.50,tray,,True,True,False,False,,False,110,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F001,SHOP002,Fast Food,Classic Beef Burger,Burgers,Fresh ingredients in every bite,9.90,menu,,True,True,False,False,,True,1,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F002,SHOP002,Fast Food,Chicken Burger,Burgers,Rich savoury flavours freshly prepared,8.90,menu,,True,True,False,False,,True,2,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F003,SHOP002,Fast Food,Cheese Burger,Burgers,Delicious everyday dish with herbs,11.90,menu,,True,True,False,False,,True,3,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F004,SHOP002,Fast Food,Double Beef Burger,Burgers,Delicious everyday dish with herbs,14.90,menu,,True,True,False,False,,True,4,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F005,SHOP002,Fast Food,Crispy Chicken Burger,Burgers,Freshly made with signature herbs,10.90,menu,,True,True,False,False,,True,5,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F006,SHOP002,Fast Food,Fish Burger,Burgers,A popular choice for everyone,9.90,menu,,True,True,False,False,,True,6,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F007,SHOP002,Fast Food,Chicken Nuggets,Sides,Fresh ingredients in every bite,7.90,menu,,True,True,False,False,,True,7,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F008,SHOP002,Fast Food,French Fries,Sides,Fresh ingredients in every bite,5.90,menu,,True,True,False,False,,True,8,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F009,SHOP002,Fast Food,Cheese Fries,Sides,A popular choice for everyone,8.90,menu,,True,True,False,False,,True,9,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F010,SHOP002,Fast Food,Curly Fries,Sides,Rich savoury flavours freshly prepared,7.90,menu,,True,True,False,False,,True,10,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F011,SHOP002,Fast Food,Onion Rings,Sides,Fresh ingredients in every bite,6.90,menu,,True,True,False,False,,True,11,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F012,SHOP002,Fast Food,Fried Chicken 2pcs,Chicken,Freshly made with signature herbs,10.90,menu,,True,True,False,False,,True,12,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F013,SHOP002,Fast Food,Spicy Fried Chicken Burger,Burgers,Made fresh for satisfying meals,11.90,menu,,True,True,False,False,,True,13,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F014,SHOP002,Fast Food,Chicken Wrap,Wraps,A popular choice for everyone,9.90,menu,,True,True,False,False,,True,14,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F015,SHOP002,Fast Food,Beef Hot Dog,Hot Dogs,Freshly made with signature herbs,7.90,menu,,True,True,False,False,,True,15,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F016,SHOP002,Fast Food,Chicken Hot Dog,Hot Dogs,Classic campus favourite served fresh,7.50,menu,,True,True,False,False,,True,16,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F017,SHOP002,Fast Food,Chicken Popcorn,Sides,Freshly made with signature herbs,7.90,menu,,True,True,False,False,,True,17,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F018,SHOP002,Fast Food,Mushroom Soup,Sides,A popular choice for everyone,5.90,menu,,True,True,False,False,,True,18,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F019,SHOP002,Fast Food,Coleslaw,Sides,Delicious everyday dish with herbs,3.90,menu,,True,True,False,False,,True,19,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-F020,SHOP002,Fast Food,Chicken Chop Burger,Burgers,A popular choice for everyone,12.90,menu,,True,True,False,False,,True,20,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F001,SHOP003,Kopitiam,Japanese Curry Chicken Rice,Rice Meals,A popular choice for everyone,12.00,menu,,True,True,False,False,,True,1,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F002,SHOP003,Kopitiam,Kopitiam Chicken Rice,Rice Meals,A hearty choice for lunch,8.50,menu,,True,True,False,False,,True,2,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F003,SHOP003,Kopitiam,Nasi Lemak,Local Meals,Freshly made with signature herbs,7.00,menu,,True,True,False,False,,True,3,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F004,SHOP003,Kopitiam,Mee Goreng,Noodles,Delicious everyday dish with herbs,7.50,menu,,True,True,False,False,,True,4,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F005,SHOP003,Kopitiam,Char Kuey Teow,Noodles,A popular choice for everyone,8.00,menu,,True,True,False,False,,True,5,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F006,SHOP003,Kopitiam,Curry Laksa,Noodles,Freshly made with signature herbs,9.00,menu,,True,True,False,False,,True,6,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F007,SHOP003,Kopitiam,Hainanese Toast Set,Breakfast,Rich savoury flavours freshly prepared,6.50,menu,,True,True,False,False,,True,7,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F008,SHOP003,Kopitiam,Half-boiled Eggs,Breakfast,Freshly made with signature herbs,4.00,menu,,True,True,False,False,,True,8,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F009,SHOP003,Kopitiam,Kaya Butter Toast,Breakfast,A hearty choice for lunch,4.50,menu,,True,True,False,False,,True,9,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F010,SHOP003,Kopitiam,Fried Rice,Rice Meals,A hearty choice for lunch,7.50,menu,,True,True,False,False,,True,10,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F011,SHOP003,Kopitiam,Chicken Curry Rice,Rice Meals,A popular choice for everyone,9.50,menu,,True,True,False,False,,True,11,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F012,SHOP003,Kopitiam,Cantonese Yee Mee,Noodles,Classic campus favourite served fresh,9.00,menu,,True,True,False,False,,True,12,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F013,SHOP003,Kopitiam,Tom Yum Meehoon,Noodles,Fresh ingredients in every bite,8.50,menu,,True,True,False,False,,True,13,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F014,SHOP003,Kopitiam,Roti Bakar,Breakfast,A popular choice for everyone,4.00,menu,,True,True,False,False,,True,14,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F015,SHOP003,Kopitiam,Curry Puff,Snacks,Rich savoury flavours freshly prepared,2.50,menu,,True,True,False,False,,True,15,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F016,SHOP003,Kopitiam,Teh Tarik,Beverages,A hearty choice for lunch,3.00,menu,,True,True,False,False,,True,16,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F017,SHOP003,Kopitiam,Kopi O,Beverages,Rich savoury flavours freshly prepared,2.50,menu,,True,True,False,False,,True,17,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F018,SHOP003,Kopitiam,Iced Milo,Beverages,A popular choice for everyone,4.00,menu,,True,True,False,False,,True,18,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F019,SHOP003,Kopitiam,Lemon Tea,Beverages,Delicious everyday dish with herbs,3.50,menu,,True,True,False,False,,True,19,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-F020,SHOP003,Kopitiam,Soy Milk,Beverages,Classic campus favourite served fresh,3.00,menu,,True,True,False,False,,True,20,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F001,SHOP004,Japanese & Korean,Chicken Katsu Don,Japanese,A popular choice for everyone,13.90,menu,,True,True,False,False,,True,1,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F002,SHOP004,Japanese & Korean,Japanese Curry Chicken Rice,Japanese,A popular choice for everyone,13.50,menu,,True,True,False,False,,True,2,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F003,SHOP004,Japanese & Korean,Beef Gyudon,Japanese,A hearty choice for lunch,14.90,menu,,True,True,False,False,,True,3,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F004,SHOP004,Japanese & Korean,Chicken Teriyaki Don,Japanese,Classic campus favourite served fresh,12.90,menu,,True,True,False,False,,True,4,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F005,SHOP004,Japanese & Korean,Salmon Teriyaki Don,Japanese,Fresh ingredients in every bite,17.90,menu,,True,True,False,False,,True,5,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F006,SHOP004,Japanese & Korean,Tonkotsu Ramen,Japanese,Freshly made with signature herbs,15.90,menu,,True,True,False,False,,True,6,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F007,SHOP004,Japanese & Korean,Shoyu Ramen,Japanese,A popular choice for everyone,14.90,menu,,True,True,False,False,,True,7,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F008,SHOP004,Japanese & Korean,Chicken Karaage,Japanese,A hearty choice for lunch,9.90,menu,,True,True,False,False,,True,8,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F009,SHOP004,Japanese & Korean,Gyoza 5pcs,Japanese,Classic campus favourite served fresh,8.90,menu,,True,True,False,False,,True,9,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F010,SHOP004,Japanese & Korean,Tamago Sushi 4pcs,Japanese,Freshly made with signature herbs,6.90,menu,,True,True,False,False,,True,10,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F011,SHOP004,Japanese & Korean,California Roll,Japanese,A hearty choice for lunch,9.90,menu,,True,True,False,False,,True,11,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F012,SHOP004,Japanese & Korean,Kimchi Fried Rice,Korean,Fresh ingredients in every bite,12.90,menu,,True,True,False,False,,True,12,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F013,SHOP004,Japanese & Korean,Bibimbap,Korean,A popular choice for everyone,14.90,menu,,True,True,False,False,,True,13,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F014,SHOP004,Japanese & Korean,Korean Fried Chicken,Korean,Fresh ingredients in every bite,13.90,menu,,True,True,False,False,,True,14,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F015,SHOP004,Japanese & Korean,Bulgogi Beef Rice,Korean,Rich savoury flavours freshly prepared,15.90,menu,,True,True,False,False,,True,15,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F016,SHOP004,Japanese & Korean,Jajangmyeon,Korean,Fresh ingredients in every bite,13.90,menu,,True,True,False,False,,True,16,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F017,SHOP004,Japanese & Korean,Tteokbokki,Korean,A popular choice for everyone,10.90,menu,,True,True,False,False,,True,17,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F018,SHOP004,Japanese & Korean,Korean Ramyeon,Korean,Classic campus favourite served fresh,9.90,menu,,True,True,False,False,,True,18,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F019,SHOP004,Japanese & Korean,Korean Seaweed Soup,Korean,Classic campus favourite served fresh,7.90,menu,,True,True,False,False,,True,19,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-F020,SHOP004,Japanese & Korean,Mandu 5pcs,Korean,Made fresh for satisfying meals,8.90,menu,,True,True,False,False,,True,20,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F001,SHOP005,Mamak,Nasi Goreng Kampung,Rice Meals,A hearty choice for lunch,8.00,menu,,True,True,False,False,,True,1,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F002,SHOP005,Mamak,Nasi Goreng Ayam,Rice Meals,Freshly made with signature herbs,9.50,menu,,True,True,False,False,,True,2,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F003,SHOP005,Mamak,Maggi Goreng,Noodles,Made fresh for satisfying meals,7.00,menu,,True,True,False,False,,True,3,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F004,SHOP005,Mamak,Mee Goreng Mamak,Noodles,A popular choice for everyone,7.50,menu,,True,True,False,False,,True,4,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F005,SHOP005,Mamak,Roti Canai,Roti,A hearty choice for lunch,2.00,menu,,True,True,False,False,,True,5,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F006,SHOP005,Mamak,Roti Telur,Roti,A hearty choice for lunch,3.50,menu,,True,True,False,False,,True,6,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F007,SHOP005,Mamak,Roti Planta,Roti,Made fresh for satisfying meals,3.00,menu,,True,True,False,False,,True,7,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F008,SHOP005,Mamak,Roti Sardin,Roti,Classic campus favourite served fresh,5.50,menu,,True,True,False,False,,True,8,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F009,SHOP005,Mamak,Murtabak Ayam,Roti,Made fresh for satisfying meals,8.00,menu,,True,True,False,False,,True,9,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F010,SHOP005,Mamak,Thosai,Roti,Made fresh for satisfying meals,3.00,menu,,True,True,False,False,,True,10,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F011,SHOP005,Mamak,Chicken Curry,Hot Dishes,A hearty choice for lunch,7.00,menu,,True,True,False,False,,True,11,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F012,SHOP005,Mamak,Fish Curry,Hot Dishes,A popular choice for everyone,7.00,menu,,True,True,False,False,,True,12,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F013,SHOP005,Mamak,Sambal Squid,Hot Dishes,Classic campus favourite served fresh,8.00,menu,,True,True,False,False,,True,13,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F014,SHOP005,Mamak,Fried Chicken,Hot Dishes,Rich savoury flavours freshly prepared,6.00,menu,,True,True,False,False,,True,14,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F015,SHOP005,Mamak,Sambal Egg,Sides,Freshly made with signature herbs,2.50,menu,,True,True,False,False,,True,15,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F016,SHOP005,Mamak,Dhal,Sides,Delicious everyday dish with herbs,2.00,menu,,True,True,False,False,,True,16,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F017,SHOP005,Mamak,Papadom,Sides,Classic campus favourite served fresh,1.00,menu,,True,True,False,False,,True,17,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F018,SHOP005,Mamak,Teh Tarik,Beverages,A hearty choice for lunch,3.00,menu,,True,True,False,False,,True,18,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F019,SHOP005,Mamak,Milo Ais,Beverages,Classic campus favourite served fresh,4.00,menu,,True,True,False,False,,True,19,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-F020,SHOP005,Mamak,Limau Ais,Beverages,Freshly made with signature herbs,3.00,menu,,True,True,False,False,,True,20,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-T001,SHOP005,Mamak,White Rice,Tray Rice,A popular choice for everyone,2.00,tray,,True,True,False,False,,False,101,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-T002,SHOP005,Mamak,Chicken Curry,Tray Meat,A hearty choice for lunch,4.50,tray,,True,True,False,False,,False,102,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-T003,SHOP005,Mamak,Fish Curry,Tray Meat,A popular choice for everyone,4.50,tray,,True,True,False,False,,False,103,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-T004,SHOP005,Mamak,Fried Chicken,Tray Meat,Rich savoury flavours freshly prepared,5.00,tray,,True,True,False,False,,False,104,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-T005,SHOP005,Mamak,Sambal Squid,Tray Seafood,Classic campus favourite served fresh,5.00,tray,,True,True,False,False,,False,105,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-T006,SHOP005,Mamak,Dhal,Tray Side,Delicious everyday dish with herbs,2.00,tray,,True,True,False,False,,False,106,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-T007,SHOP005,Mamak,Sambal Egg,Tray Side,Freshly made with signature herbs,2.00,tray,,True,True,False,False,,False,107,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-T008,SHOP005,Mamak,Papadom,Tray Side,Classic campus favourite served fresh,1.00,tray,,True,True,False,False,,False,108,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-T009,SHOP005,Mamak,Stir-fried Vegetables,Tray Vegetable,Freshly made with signature herbs,2.00,tray,,True,True,False,False,,False,109,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-T010,SHOP005,Mamak,Potato Masala,Tray Dish,Classic campus favourite served fresh,2.50,tray,,True,True,False,False,,False,110,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F001,SHOP006,Shawarma,Chicken Shawarma Wrap,Shawarma,Rich savoury flavours freshly prepared,9.90,menu,,True,True,False,False,,True,1,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F002,SHOP006,Shawarma,Beef Shawarma Wrap,Shawarma,Made fresh for satisfying meals,11.90,menu,,True,True,False,False,,True,2,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F003,SHOP006,Shawarma,Mixed Shawarma Wrap,Shawarma,Made fresh for satisfying meals,12.90,menu,,True,True,False,False,,True,3,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F004,SHOP006,Shawarma,Chicken Shawarma Rice,Rice Meals,Classic campus favourite served fresh,12.90,menu,,True,True,False,False,,True,4,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F005,SHOP006,Shawarma,Beef Shawarma Rice,Rice Meals,Made fresh for satisfying meals,14.90,menu,,True,True,False,False,,True,5,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F006,SHOP006,Shawarma,Chicken Pita Pocket,Shawarma,Rich savoury flavours freshly prepared,9.50,menu,,True,True,False,False,,True,6,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F007,SHOP006,Shawarma,Beef Pita Pocket,Shawarma,Fresh ingredients in every bite,11.50,menu,,True,True,False,False,,True,7,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F008,SHOP006,Shawarma,Falafel Wrap,Vegetarian,Classic campus favourite served fresh,9.90,menu,,True,True,False,False,,True,8,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F009,SHOP006,Shawarma,Falafel Plate,Vegetarian,Rich savoury flavours freshly prepared,12.90,menu,,True,True,False,False,,True,9,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F010,SHOP006,Shawarma,Chicken Kebab,Grill,A popular choice for everyone,12.90,menu,,True,True,False,False,,True,10,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F011,SHOP006,Shawarma,Beef Kebab,Grill,A hearty choice for lunch,14.90,menu,,True,True,False,False,,True,11,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F012,SHOP006,Shawarma,Chicken Hummus Bowl,Bowls,Delicious everyday dish with herbs,13.90,menu,,True,True,False,False,,True,12,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F013,SHOP006,Shawarma,Lamb Shawarma Wrap,Shawarma,A hearty choice for lunch,15.90,menu,,True,True,False,False,,True,13,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F014,SHOP006,Shawarma,Chicken Cheese Wrap,Shawarma,A popular choice for everyone,11.90,menu,,True,True,False,False,,True,14,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F015,SHOP006,Shawarma,Shawarma Fries,Sides,Delicious everyday dish with herbs,8.90,menu,,True,True,False,False,,True,15,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F016,SHOP006,Shawarma,Hummus with Pita,Sides,A hearty choice for lunch,7.90,menu,,True,True,False,False,,True,16,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F017,SHOP006,Shawarma,Tabbouleh Salad,Salads,Delicious everyday dish with herbs,7.90,menu,,True,True,False,False,,True,17,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F018,SHOP006,Shawarma,Greek Salad,Salads,Made fresh for satisfying meals,8.90,menu,,True,True,False,False,,True,18,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F019,SHOP006,Shawarma,Chicken Nuggets,Sides,Fresh ingredients in every bite,7.90,menu,,True,True,False,False,,True,19,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-F020,SHOP006,Shawarma,Mint Lemonade,Beverages,Freshly made with signature herbs,4.90,menu,,True,True,False,False,,True,20,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F001,SHOP007,Asian Cuisine,Chicken Rice,Rice Meals,Made fresh for satisfying meals,8.50,menu,,True,True,False,False,,True,1,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F002,SHOP007,Asian Cuisine,Roasted Chicken Rice,Rice Meals,Rich savoury flavours freshly prepared,9.00,menu,,True,True,False,False,,True,2,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F003,SHOP007,Asian Cuisine,Yee Mee Soup,Noodles,Fresh ingredients in every bite,8.50,menu,,True,True,False,False,,True,3,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F004,SHOP007,Asian Cuisine,Cantonese Yee Mee,Noodles,Classic campus favourite served fresh,9.50,menu,,True,True,False,False,,True,4,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F005,SHOP007,Asian Cuisine,Fried Yee Mee,Noodles,A hearty choice for lunch,9.00,menu,,True,True,False,False,,True,5,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F006,SHOP007,Asian Cuisine,Mee Hoon Soup,Noodles,Classic campus favourite served fresh,7.50,menu,,True,True,False,False,,True,6,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F007,SHOP007,Asian Cuisine,Tom Yum Noodles,Noodles,A hearty choice for lunch,9.00,menu,,True,True,False,False,,True,7,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F008,SHOP007,Asian Cuisine,Pan Mee,Noodles,Rich savoury flavours freshly prepared,8.50,menu,,True,True,False,False,,True,8,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F009,SHOP007,Asian Cuisine,Curry Mee,Noodles,A hearty choice for lunch,8.50,menu,,True,True,False,False,,True,9,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F010,SHOP007,Asian Cuisine,Nasi Lemak Ayam,Local Meals,A hearty choice for lunch,9.50,menu,,True,True,False,False,,True,10,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F011,SHOP007,Asian Cuisine,Nasi Goreng Kampung,Local Meals,A hearty choice for lunch,8.00,menu,,True,True,False,False,,True,11,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F012,SHOP007,Asian Cuisine,Ayam Penyet,Local Meals,Delicious everyday dish with herbs,10.90,menu,,True,True,False,False,,True,12,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F013,SHOP007,Asian Cuisine,Nasi Ayam Penyet,Local Meals,Freshly made with signature herbs,10.90,menu,,True,True,False,False,,True,13,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F014,SHOP007,Asian Cuisine,Sweet and Sour Chicken Rice,Rice Meals,Rich savoury flavours freshly prepared,9.50,menu,,True,True,False,False,,True,14,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F015,SHOP007,Asian Cuisine,Black Pepper Chicken Rice,Rice Meals,A hearty choice for lunch,9.50,menu,,True,True,False,False,,True,15,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F016,SHOP007,Asian Cuisine,Beef Hor Fun,Noodles,Delicious everyday dish with herbs,10.00,menu,,True,True,False,False,,True,16,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F017,SHOP007,Asian Cuisine,Fried Rice,Rice Meals,A hearty choice for lunch,7.50,menu,,True,True,False,False,,True,17,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F018,SHOP007,Asian Cuisine,Wonton Soup,Noodles,A popular choice for everyone,7.50,menu,,True,True,False,False,,True,18,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F019,SHOP007,Asian Cuisine,Crispy Chicken Chop Rice,Rice Meals,Fresh ingredients in every bite,12.00,menu,,True,True,False,False,,True,19,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-F020,SHOP007,Asian Cuisine,Vegetarian Fried Noodles,Noodles,Made fresh for satisfying meals,7.50,menu,,True,True,False,False,,True,20,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F001,SHOP008,Picante,Chicken Chop,Western,Fresh ingredients in every bite,15.90,menu,,True,True,False,False,,True,1,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F002,SHOP008,Picante,Grilled Chicken,Western,Classic campus favourite served fresh,14.90,menu,,True,True,False,False,,True,2,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F003,SHOP008,Picante,Fish and Chips,Western,Made fresh for satisfying meals,16.90,menu,,True,True,False,False,,True,3,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F004,SHOP008,Picante,Spaghetti Bolognese,Western,Classic campus favourite served fresh,13.90,menu,,True,True,False,False,,True,4,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F005,SHOP008,Picante,Carbonara,Western,A popular choice for everyone,14.90,menu,,True,True,False,False,,True,5,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F006,SHOP008,Picante,Aglio Olio,Western,Freshly made with signature herbs,12.90,menu,,True,True,False,False,,True,6,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F007,SHOP008,Picante,Beef Burger,Western,Rich savoury flavours freshly prepared,12.90,menu,,True,True,False,False,,True,7,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F008,SHOP008,Picante,Chicken Burger,Western,Rich savoury flavours freshly prepared,10.90,menu,,True,True,False,False,,True,8,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F009,SHOP008,Picante,Grilled Sausage Set,Western,Rich savoury flavours freshly prepared,11.90,menu,,True,True,False,False,,True,9,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F010,SHOP008,Picante,Mushroom Soup,Sides,A popular choice for everyone,5.90,menu,,True,True,False,False,,True,10,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F011,SHOP008,Picante,French Fries,Sides,Fresh ingredients in every bite,5.90,menu,,True,True,False,False,,True,11,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F012,SHOP008,Picante,Mashed Potato,Sides,Delicious everyday dish with herbs,4.90,menu,,True,True,False,False,,True,12,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F013,SHOP008,Picante,Nasi Lemak,Local Delicacies,Freshly made with signature herbs,7.00,menu,,True,True,False,False,,True,13,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F014,SHOP008,Picante,Nasi Goreng Kampung,Local Delicacies,A hearty choice for lunch,8.00,menu,,True,True,False,False,,True,14,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F015,SHOP008,Picante,Mee Goreng,Local Delicacies,Delicious everyday dish with herbs,7.50,menu,,True,True,False,False,,True,15,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F016,SHOP008,Picante,Ayam Penyet,Local Delicacies,Delicious everyday dish with herbs,10.90,menu,,True,True,False,False,,True,16,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F017,SHOP008,Picante,Chicken Rice,Local Delicacies,Made fresh for satisfying meals,8.50,menu,,True,True,False,False,,True,17,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F018,SHOP008,Picante,Satay Set,Local Delicacies,Rich savoury flavours freshly prepared,10.90,menu,,True,True,False,False,,True,18,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F019,SHOP008,Picante,Tom Yum Fried Rice,Local Delicacies,A popular choice for everyone,9.50,menu,,True,True,False,False,,True,19,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-F020,SHOP008,Picante,Curry Chicken Rice,Local Delicacies,A popular choice for everyone,9.50,menu,,True,True,False,False,,True,20,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A001,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Chicken Rice; vendor verification required.,1.50,addons,SHOP001-F001,True,True,False,False,,False,501,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A002,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Chicken Rice; vendor verification required.,2.00,addons,SHOP001-F001,True,True,False,False,,False,502,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A003,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Chicken Rice; vendor verification required.,1.00,addons,SHOP001-F001,True,True,False,False,,False,503,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A004,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Chicken Rice; vendor verification required.,0.50,addons,SHOP001-F001,True,True,False,False,,False,504,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A005,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Roast Chicken Rice; vendor verification required.,1.50,addons,SHOP001-F002,True,True,False,False,,False,505,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A006,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Roast Chicken Rice; vendor verification required.,2.00,addons,SHOP001-F002,True,True,False,False,,False,506,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A007,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Roast Chicken Rice; vendor verification required.,1.00,addons,SHOP001-F002,True,True,False,False,,False,507,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A008,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Roast Chicken Rice; vendor verification required.,0.50,addons,SHOP001-F002,True,True,False,False,,False,508,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A009,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Char Siew Rice; vendor verification required.,1.50,addons,SHOP001-F003,True,True,False,False,,False,509,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A010,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Char Siew Rice; vendor verification required.,2.00,addons,SHOP001-F003,True,True,False,False,,False,510,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A011,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Char Siew Rice; vendor verification required.,1.00,addons,SHOP001-F003,True,True,False,False,,False,511,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A012,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Char Siew Rice; vendor verification required.,0.50,addons,SHOP001-F003,True,True,False,False,,False,512,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A013,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Siew Yuk Rice; vendor verification required.,1.50,addons,SHOP001-F004,True,True,False,False,,False,513,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A014,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Siew Yuk Rice; vendor verification required.,2.00,addons,SHOP001-F004,True,True,False,False,,False,514,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A015,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Siew Yuk Rice; vendor verification required.,1.00,addons,SHOP001-F004,True,True,False,False,,False,515,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A016,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Siew Yuk Rice; vendor verification required.,0.50,addons,SHOP001-F004,True,True,False,False,,False,516,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A017,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Wantan Mee; vendor verification required.,1.50,addons,SHOP001-F005,True,True,False,False,,False,517,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A018,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Wantan Mee; vendor verification required.,2.00,addons,SHOP001-F005,True,True,False,False,,False,518,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A019,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Wantan Mee; vendor verification required.,1.00,addons,SHOP001-F005,True,True,False,False,,False,519,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A020,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Wantan Mee; vendor verification required.,0.50,addons,SHOP001-F005,True,True,False,False,,False,520,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A021,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Curry Mee; vendor verification required.,1.50,addons,SHOP001-F006,True,True,False,False,,False,521,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A022,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Curry Mee; vendor verification required.,2.00,addons,SHOP001-F006,True,True,False,False,,False,522,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A023,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Curry Mee; vendor verification required.,1.00,addons,SHOP001-F006,True,True,False,False,,False,523,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A024,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Curry Mee; vendor verification required.,0.50,addons,SHOP001-F006,True,True,False,False,,False,524,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A025,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Fried Kuey Teow; vendor verification required.,1.50,addons,SHOP001-F007,True,True,False,False,,False,525,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A026,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Fried Kuey Teow; vendor verification required.,2.00,addons,SHOP001-F007,True,True,False,False,,False,526,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A027,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Fried Kuey Teow; vendor verification required.,1.00,addons,SHOP001-F007,True,True,False,False,,False,527,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A028,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Fried Kuey Teow; vendor verification required.,0.50,addons,SHOP001-F007,True,True,False,False,,False,528,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A029,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Hokkien Mee; vendor verification required.,1.50,addons,SHOP001-F008,True,True,False,False,,False,529,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A030,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Hokkien Mee; vendor verification required.,2.00,addons,SHOP001-F008,True,True,False,False,,False,530,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A031,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Hokkien Mee; vendor verification required.,1.00,addons,SHOP001-F008,True,True,False,False,,False,531,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A032,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Hokkien Mee; vendor verification required.,0.50,addons,SHOP001-F008,True,True,False,False,,False,532,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A033,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Sweet and Sour Chicken; vendor verification required.,1.50,addons,SHOP001-F009,True,True,False,False,,False,533,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A034,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Sweet and Sour Chicken; vendor verification required.,2.00,addons,SHOP001-F009,True,True,False,False,,False,534,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A035,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Sweet and Sour Chicken; vendor verification required.,1.00,addons,SHOP001-F009,True,True,False,False,,False,535,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A036,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Sweet and Sour Chicken; vendor verification required.,0.50,addons,SHOP001-F009,True,True,False,False,,False,536,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A037,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Kung Pao Chicken; vendor verification required.,1.50,addons,SHOP001-F010,True,True,False,False,,False,537,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A038,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Kung Pao Chicken; vendor verification required.,2.00,addons,SHOP001-F010,True,True,False,False,,False,538,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A039,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Kung Pao Chicken; vendor verification required.,1.00,addons,SHOP001-F010,True,True,False,False,,False,539,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A040,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Kung Pao Chicken; vendor verification required.,0.50,addons,SHOP001-F010,True,True,False,False,,False,540,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A041,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Ginger Chicken; vendor verification required.,1.50,addons,SHOP001-F011,True,True,False,False,,False,541,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A042,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Ginger Chicken; vendor verification required.,2.00,addons,SHOP001-F011,True,True,False,False,,False,542,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A043,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Ginger Chicken; vendor verification required.,1.00,addons,SHOP001-F011,True,True,False,False,,False,543,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A044,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Ginger Chicken; vendor verification required.,0.50,addons,SHOP001-F011,True,True,False,False,,False,544,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A045,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Black Pepper Beef; vendor verification required.,1.50,addons,SHOP001-F012,True,True,False,False,,False,545,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A046,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Black Pepper Beef; vendor verification required.,2.00,addons,SHOP001-F012,True,True,False,False,,False,546,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A047,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Black Pepper Beef; vendor verification required.,1.00,addons,SHOP001-F012,True,True,False,False,,False,547,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A048,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Black Pepper Beef; vendor verification required.,0.50,addons,SHOP001-F012,True,True,False,False,,False,548,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A049,SHOP001,Chinese,Less ice,Add-on,Sample optional add-on for Steamed Egg; vendor verification required.,0.00,addons,SHOP001-F013,True,True,False,False,,False,549,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A050,SHOP001,Chinese,Extra ice,Add-on,Sample optional add-on for Steamed Egg; vendor verification required.,0.00,addons,SHOP001-F013,True,True,False,False,,False,550,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A051,SHOP001,Chinese,Extra milk,Add-on,Sample optional add-on for Steamed Egg; vendor verification required.,1.50,addons,SHOP001-F013,True,True,False,False,,False,551,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A052,SHOP001,Chinese,Extra shot / syrup,Add-on,Sample optional add-on for Steamed Egg; vendor verification required.,2.00,addons,SHOP001-F013,True,True,False,False,,False,552,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A053,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Fried Egg; vendor verification required.,1.50,addons,SHOP001-F014,True,True,False,False,,False,553,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A054,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Fried Egg; vendor verification required.,2.00,addons,SHOP001-F014,True,True,False,False,,False,554,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A055,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Fried Egg; vendor verification required.,1.00,addons,SHOP001-F014,True,True,False,False,,False,555,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A056,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Fried Egg; vendor verification required.,0.50,addons,SHOP001-F014,True,True,False,False,,False,556,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A057,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Stir-fried Cabbage; vendor verification required.,1.50,addons,SHOP001-F015,True,True,False,False,,False,557,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A058,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Stir-fried Cabbage; vendor verification required.,2.00,addons,SHOP001-F015,True,True,False,False,,False,558,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A059,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Stir-fried Cabbage; vendor verification required.,1.00,addons,SHOP001-F015,True,True,False,False,,False,559,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A060,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Stir-fried Cabbage; vendor verification required.,0.50,addons,SHOP001-F015,True,True,False,False,,False,560,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A061,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Sambal Kangkung; vendor verification required.,1.50,addons,SHOP001-F016,True,True,False,False,,False,561,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A062,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Sambal Kangkung; vendor verification required.,2.00,addons,SHOP001-F016,True,True,False,False,,False,562,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A063,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Sambal Kangkung; vendor verification required.,1.00,addons,SHOP001-F016,True,True,False,False,,False,563,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A064,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Sambal Kangkung; vendor verification required.,0.50,addons,SHOP001-F016,True,True,False,False,,False,564,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A065,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Tofu with Minced Meat; vendor verification required.,1.50,addons,SHOP001-F017,True,True,False,False,,False,565,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A066,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Tofu with Minced Meat; vendor verification required.,2.00,addons,SHOP001-F017,True,True,False,False,,False,566,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A067,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Tofu with Minced Meat; vendor verification required.,1.00,addons,SHOP001-F017,True,True,False,False,,False,567,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A068,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Tofu with Minced Meat; vendor verification required.,0.50,addons,SHOP001-F017,True,True,False,False,,False,568,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A069,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Fried Fish; vendor verification required.,1.50,addons,SHOP001-F018,True,True,False,False,,False,569,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A070,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Fried Fish; vendor verification required.,2.00,addons,SHOP001-F018,True,True,False,False,,False,570,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A071,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Fried Fish; vendor verification required.,1.00,addons,SHOP001-F018,True,True,False,False,,False,571,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A072,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Fried Fish; vendor verification required.,0.50,addons,SHOP001-F018,True,True,False,False,,False,572,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A073,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Lemon Chicken; vendor verification required.,1.50,addons,SHOP001-F019,True,True,False,False,,False,573,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A074,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Lemon Chicken; vendor verification required.,2.00,addons,SHOP001-F019,True,True,False,False,,False,574,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A075,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Lemon Chicken; vendor verification required.,1.00,addons,SHOP001-F019,True,True,False,False,,False,575,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A076,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Lemon Chicken; vendor verification required.,0.50,addons,SHOP001-F019,True,True,False,False,,False,576,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A077,SHOP001,Chinese,Extra rice,Add-on,Sample optional add-on for Salted Egg Chicken; vendor verification required.,1.50,addons,SHOP001-F020,True,True,False,False,,False,577,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A078,SHOP001,Chinese,Fried egg,Add-on,Sample optional add-on for Salted Egg Chicken; vendor verification required.,2.00,addons,SHOP001-F020,True,True,False,False,,False,578,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A079,SHOP001,Chinese,Extra gravy,Add-on,Sample optional add-on for Salted Egg Chicken; vendor verification required.,1.00,addons,SHOP001-F020,True,True,False,False,,False,579,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP001-A080,SHOP001,Chinese,Chilli sauce,Add-on,Sample optional add-on for Salted Egg Chicken; vendor verification required.,0.50,addons,SHOP001-F020,True,True,False,False,,False,580,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A001,SHOP002,Fast Food,Extra cheese,Add-on,Sample optional add-on for Classic Beef Burger; vendor verification required.,2.00,addons,SHOP002-F001,True,True,False,False,,False,501,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A002,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Classic Beef Burger; vendor verification required.,1.00,addons,SHOP002-F001,True,True,False,False,,False,502,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A003,SHOP002,Fast Food,Add egg,Add-on,Sample optional add-on for Classic Beef Burger; vendor verification required.,2.00,addons,SHOP002-F001,True,True,False,False,,False,503,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A004,SHOP002,Fast Food,Extra fries,Add-on,Sample optional add-on for Classic Beef Burger; vendor verification required.,3.00,addons,SHOP002-F001,True,True,False,False,,False,504,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A005,SHOP002,Fast Food,Extra cheese,Add-on,Sample optional add-on for Chicken Burger; vendor verification required.,2.00,addons,SHOP002-F002,True,True,False,False,,False,505,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A006,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Chicken Burger; vendor verification required.,1.00,addons,SHOP002-F002,True,True,False,False,,False,506,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A007,SHOP002,Fast Food,Add egg,Add-on,Sample optional add-on for Chicken Burger; vendor verification required.,2.00,addons,SHOP002-F002,True,True,False,False,,False,507,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A008,SHOP002,Fast Food,Extra fries,Add-on,Sample optional add-on for Chicken Burger; vendor verification required.,3.00,addons,SHOP002-F002,True,True,False,False,,False,508,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A009,SHOP002,Fast Food,Extra cheese,Add-on,Sample optional add-on for Cheese Burger; vendor verification required.,2.00,addons,SHOP002-F003,True,True,False,False,,False,509,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A010,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Cheese Burger; vendor verification required.,1.00,addons,SHOP002-F003,True,True,False,False,,False,510,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A011,SHOP002,Fast Food,Add egg,Add-on,Sample optional add-on for Cheese Burger; vendor verification required.,2.00,addons,SHOP002-F003,True,True,False,False,,False,511,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A012,SHOP002,Fast Food,Extra fries,Add-on,Sample optional add-on for Cheese Burger; vendor verification required.,3.00,addons,SHOP002-F003,True,True,False,False,,False,512,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A013,SHOP002,Fast Food,Extra cheese,Add-on,Sample optional add-on for Double Beef Burger; vendor verification required.,2.00,addons,SHOP002-F004,True,True,False,False,,False,513,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A014,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Double Beef Burger; vendor verification required.,1.00,addons,SHOP002-F004,True,True,False,False,,False,514,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A015,SHOP002,Fast Food,Add egg,Add-on,Sample optional add-on for Double Beef Burger; vendor verification required.,2.00,addons,SHOP002-F004,True,True,False,False,,False,515,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A016,SHOP002,Fast Food,Extra fries,Add-on,Sample optional add-on for Double Beef Burger; vendor verification required.,3.00,addons,SHOP002-F004,True,True,False,False,,False,516,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A017,SHOP002,Fast Food,Extra cheese,Add-on,Sample optional add-on for Crispy Chicken Burger; vendor verification required.,2.00,addons,SHOP002-F005,True,True,False,False,,False,517,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A018,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Crispy Chicken Burger; vendor verification required.,1.00,addons,SHOP002-F005,True,True,False,False,,False,518,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A019,SHOP002,Fast Food,Add egg,Add-on,Sample optional add-on for Crispy Chicken Burger; vendor verification required.,2.00,addons,SHOP002-F005,True,True,False,False,,False,519,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A020,SHOP002,Fast Food,Extra fries,Add-on,Sample optional add-on for Crispy Chicken Burger; vendor verification required.,3.00,addons,SHOP002-F005,True,True,False,False,,False,520,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A021,SHOP002,Fast Food,Extra cheese,Add-on,Sample optional add-on for Fish Burger; vendor verification required.,2.00,addons,SHOP002-F006,True,True,False,False,,False,521,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A022,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Fish Burger; vendor verification required.,1.00,addons,SHOP002-F006,True,True,False,False,,False,522,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A023,SHOP002,Fast Food,Add egg,Add-on,Sample optional add-on for Fish Burger; vendor verification required.,2.00,addons,SHOP002-F006,True,True,False,False,,False,523,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A024,SHOP002,Fast Food,Extra fries,Add-on,Sample optional add-on for Fish Burger; vendor verification required.,3.00,addons,SHOP002-F006,True,True,False,False,,False,524,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A025,SHOP002,Fast Food,Extra portion,Add-on,Sample optional add-on for Chicken Nuggets; vendor verification required.,2.50,addons,SHOP002-F007,True,True,False,False,,False,525,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A026,SHOP002,Fast Food,Fried egg,Add-on,Sample optional add-on for Chicken Nuggets; vendor verification required.,2.00,addons,SHOP002-F007,True,True,False,False,,False,526,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A027,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Chicken Nuggets; vendor verification required.,1.00,addons,SHOP002-F007,True,True,False,False,,False,527,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A028,SHOP002,Fast Food,Extra vegetables,Add-on,Sample optional add-on for Chicken Nuggets; vendor verification required.,1.50,addons,SHOP002-F007,True,True,False,False,,False,528,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A029,SHOP002,Fast Food,Extra cheese,Add-on,Sample optional add-on for French Fries; vendor verification required.,2.00,addons,SHOP002-F008,True,True,False,False,,False,529,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A030,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for French Fries; vendor verification required.,1.00,addons,SHOP002-F008,True,True,False,False,,False,530,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A031,SHOP002,Fast Food,Add egg,Add-on,Sample optional add-on for French Fries; vendor verification required.,2.00,addons,SHOP002-F008,True,True,False,False,,False,531,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A032,SHOP002,Fast Food,Extra fries,Add-on,Sample optional add-on for French Fries; vendor verification required.,3.00,addons,SHOP002-F008,True,True,False,False,,False,532,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A033,SHOP002,Fast Food,Extra cheese,Add-on,Sample optional add-on for Cheese Fries; vendor verification required.,2.00,addons,SHOP002-F009,True,True,False,False,,False,533,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A034,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Cheese Fries; vendor verification required.,1.00,addons,SHOP002-F009,True,True,False,False,,False,534,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A035,SHOP002,Fast Food,Add egg,Add-on,Sample optional add-on for Cheese Fries; vendor verification required.,2.00,addons,SHOP002-F009,True,True,False,False,,False,535,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A036,SHOP002,Fast Food,Extra fries,Add-on,Sample optional add-on for Cheese Fries; vendor verification required.,3.00,addons,SHOP002-F009,True,True,False,False,,False,536,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A037,SHOP002,Fast Food,Extra cheese,Add-on,Sample optional add-on for Curly Fries; vendor verification required.,2.00,addons,SHOP002-F010,True,True,False,False,,False,537,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A038,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Curly Fries; vendor verification required.,1.00,addons,SHOP002-F010,True,True,False,False,,False,538,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A039,SHOP002,Fast Food,Add egg,Add-on,Sample optional add-on for Curly Fries; vendor verification required.,2.00,addons,SHOP002-F010,True,True,False,False,,False,539,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A040,SHOP002,Fast Food,Extra fries,Add-on,Sample optional add-on for Curly Fries; vendor verification required.,3.00,addons,SHOP002-F010,True,True,False,False,,False,540,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A041,SHOP002,Fast Food,Extra portion,Add-on,Sample optional add-on for Onion Rings; vendor verification required.,2.50,addons,SHOP002-F011,True,True,False,False,,False,541,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A042,SHOP002,Fast Food,Fried egg,Add-on,Sample optional add-on for Onion Rings; vendor verification required.,2.00,addons,SHOP002-F011,True,True,False,False,,False,542,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A043,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Onion Rings; vendor verification required.,1.00,addons,SHOP002-F011,True,True,False,False,,False,543,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A044,SHOP002,Fast Food,Extra vegetables,Add-on,Sample optional add-on for Onion Rings; vendor verification required.,1.50,addons,SHOP002-F011,True,True,False,False,,False,544,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A045,SHOP002,Fast Food,Extra portion,Add-on,Sample optional add-on for Fried Chicken 2pcs; vendor verification required.,2.50,addons,SHOP002-F012,True,True,False,False,,False,545,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A046,SHOP002,Fast Food,Fried egg,Add-on,Sample optional add-on for Fried Chicken 2pcs; vendor verification required.,2.00,addons,SHOP002-F012,True,True,False,False,,False,546,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A047,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Fried Chicken 2pcs; vendor verification required.,1.00,addons,SHOP002-F012,True,True,False,False,,False,547,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A048,SHOP002,Fast Food,Extra vegetables,Add-on,Sample optional add-on for Fried Chicken 2pcs; vendor verification required.,1.50,addons,SHOP002-F012,True,True,False,False,,False,548,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A049,SHOP002,Fast Food,Extra cheese,Add-on,Sample optional add-on for Spicy Fried Chicken Burger; vendor verification required.,2.00,addons,SHOP002-F013,True,True,False,False,,False,549,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A050,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Spicy Fried Chicken Burger; vendor verification required.,1.00,addons,SHOP002-F013,True,True,False,False,,False,550,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A051,SHOP002,Fast Food,Add egg,Add-on,Sample optional add-on for Spicy Fried Chicken Burger; vendor verification required.,2.00,addons,SHOP002-F013,True,True,False,False,,False,551,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A052,SHOP002,Fast Food,Extra fries,Add-on,Sample optional add-on for Spicy Fried Chicken Burger; vendor verification required.,3.00,addons,SHOP002-F013,True,True,False,False,,False,552,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A053,SHOP002,Fast Food,Extra portion,Add-on,Sample optional add-on for Chicken Wrap; vendor verification required.,2.50,addons,SHOP002-F014,True,True,False,False,,False,553,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A054,SHOP002,Fast Food,Fried egg,Add-on,Sample optional add-on for Chicken Wrap; vendor verification required.,2.00,addons,SHOP002-F014,True,True,False,False,,False,554,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A055,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Chicken Wrap; vendor verification required.,1.00,addons,SHOP002-F014,True,True,False,False,,False,555,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A056,SHOP002,Fast Food,Extra vegetables,Add-on,Sample optional add-on for Chicken Wrap; vendor verification required.,1.50,addons,SHOP002-F014,True,True,False,False,,False,556,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A057,SHOP002,Fast Food,Extra portion,Add-on,Sample optional add-on for Beef Hot Dog; vendor verification required.,2.50,addons,SHOP002-F015,True,True,False,False,,False,557,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A058,SHOP002,Fast Food,Fried egg,Add-on,Sample optional add-on for Beef Hot Dog; vendor verification required.,2.00,addons,SHOP002-F015,True,True,False,False,,False,558,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A059,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Beef Hot Dog; vendor verification required.,1.00,addons,SHOP002-F015,True,True,False,False,,False,559,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A060,SHOP002,Fast Food,Extra vegetables,Add-on,Sample optional add-on for Beef Hot Dog; vendor verification required.,1.50,addons,SHOP002-F015,True,True,False,False,,False,560,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A061,SHOP002,Fast Food,Extra portion,Add-on,Sample optional add-on for Chicken Hot Dog; vendor verification required.,2.50,addons,SHOP002-F016,True,True,False,False,,False,561,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A062,SHOP002,Fast Food,Fried egg,Add-on,Sample optional add-on for Chicken Hot Dog; vendor verification required.,2.00,addons,SHOP002-F016,True,True,False,False,,False,562,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A063,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Chicken Hot Dog; vendor verification required.,1.00,addons,SHOP002-F016,True,True,False,False,,False,563,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A064,SHOP002,Fast Food,Extra vegetables,Add-on,Sample optional add-on for Chicken Hot Dog; vendor verification required.,1.50,addons,SHOP002-F016,True,True,False,False,,False,564,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A065,SHOP002,Fast Food,Extra portion,Add-on,Sample optional add-on for Chicken Popcorn; vendor verification required.,2.50,addons,SHOP002-F017,True,True,False,False,,False,565,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A066,SHOP002,Fast Food,Fried egg,Add-on,Sample optional add-on for Chicken Popcorn; vendor verification required.,2.00,addons,SHOP002-F017,True,True,False,False,,False,566,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A067,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Chicken Popcorn; vendor verification required.,1.00,addons,SHOP002-F017,True,True,False,False,,False,567,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A068,SHOP002,Fast Food,Extra vegetables,Add-on,Sample optional add-on for Chicken Popcorn; vendor verification required.,1.50,addons,SHOP002-F017,True,True,False,False,,False,568,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A069,SHOP002,Fast Food,Extra portion,Add-on,Sample optional add-on for Mushroom Soup; vendor verification required.,2.50,addons,SHOP002-F018,True,True,False,False,,False,569,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A070,SHOP002,Fast Food,Fried egg,Add-on,Sample optional add-on for Mushroom Soup; vendor verification required.,2.00,addons,SHOP002-F018,True,True,False,False,,False,570,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A071,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Mushroom Soup; vendor verification required.,1.00,addons,SHOP002-F018,True,True,False,False,,False,571,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A072,SHOP002,Fast Food,Extra vegetables,Add-on,Sample optional add-on for Mushroom Soup; vendor verification required.,1.50,addons,SHOP002-F018,True,True,False,False,,False,572,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A073,SHOP002,Fast Food,Extra portion,Add-on,Sample optional add-on for Coleslaw; vendor verification required.,2.50,addons,SHOP002-F019,True,True,False,False,,False,573,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A074,SHOP002,Fast Food,Fried egg,Add-on,Sample optional add-on for Coleslaw; vendor verification required.,2.00,addons,SHOP002-F019,True,True,False,False,,False,574,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A075,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Coleslaw; vendor verification required.,1.00,addons,SHOP002-F019,True,True,False,False,,False,575,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A076,SHOP002,Fast Food,Extra vegetables,Add-on,Sample optional add-on for Coleslaw; vendor verification required.,1.50,addons,SHOP002-F019,True,True,False,False,,False,576,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A077,SHOP002,Fast Food,Extra cheese,Add-on,Sample optional add-on for Chicken Chop Burger; vendor verification required.,2.00,addons,SHOP002-F020,True,True,False,False,,False,577,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A078,SHOP002,Fast Food,Extra sauce,Add-on,Sample optional add-on for Chicken Chop Burger; vendor verification required.,1.00,addons,SHOP002-F020,True,True,False,False,,False,578,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A079,SHOP002,Fast Food,Add egg,Add-on,Sample optional add-on for Chicken Chop Burger; vendor verification required.,2.00,addons,SHOP002-F020,True,True,False,False,,False,579,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP002-A080,SHOP002,Fast Food,Extra fries,Add-on,Sample optional add-on for Chicken Chop Burger; vendor verification required.,3.00,addons,SHOP002-F020,True,True,False,False,,False,580,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A001,SHOP003,Kopitiam,Extra noodles / rice,Add-on,Sample optional add-on for Japanese Curry Chicken Rice; vendor verification required.,2.00,addons,SHOP003-F001,True,True,False,False,,False,501,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A002,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Japanese Curry Chicken Rice; vendor verification required.,2.00,addons,SHOP003-F001,True,True,False,False,,False,502,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A003,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Japanese Curry Chicken Rice; vendor verification required.,1.50,addons,SHOP003-F001,True,True,False,False,,False,503,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A004,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Japanese Curry Chicken Rice; vendor verification required.,1.00,addons,SHOP003-F001,True,True,False,False,,False,504,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A005,SHOP003,Kopitiam,Extra noodles / rice,Add-on,Sample optional add-on for Kopitiam Chicken Rice; vendor verification required.,2.00,addons,SHOP003-F002,True,True,False,False,,False,505,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A006,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Kopitiam Chicken Rice; vendor verification required.,2.00,addons,SHOP003-F002,True,True,False,False,,False,506,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A007,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Kopitiam Chicken Rice; vendor verification required.,1.50,addons,SHOP003-F002,True,True,False,False,,False,507,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A008,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Kopitiam Chicken Rice; vendor verification required.,1.00,addons,SHOP003-F002,True,True,False,False,,False,508,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A009,SHOP003,Kopitiam,Extra portion,Add-on,Sample optional add-on for Nasi Lemak; vendor verification required.,2.50,addons,SHOP003-F003,True,True,False,False,,False,509,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A010,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Nasi Lemak; vendor verification required.,2.00,addons,SHOP003-F003,True,True,False,False,,False,510,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A011,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Nasi Lemak; vendor verification required.,1.00,addons,SHOP003-F003,True,True,False,False,,False,511,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A012,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Nasi Lemak; vendor verification required.,1.50,addons,SHOP003-F003,True,True,False,False,,False,512,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A013,SHOP003,Kopitiam,Extra noodles / rice,Add-on,Sample optional add-on for Mee Goreng; vendor verification required.,2.00,addons,SHOP003-F004,True,True,False,False,,False,513,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A014,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Mee Goreng; vendor verification required.,2.00,addons,SHOP003-F004,True,True,False,False,,False,514,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A015,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Mee Goreng; vendor verification required.,1.50,addons,SHOP003-F004,True,True,False,False,,False,515,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A016,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Mee Goreng; vendor verification required.,1.00,addons,SHOP003-F004,True,True,False,False,,False,516,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A017,SHOP003,Kopitiam,Extra noodles / rice,Add-on,Sample optional add-on for Char Kuey Teow; vendor verification required.,2.00,addons,SHOP003-F005,True,True,False,False,,False,517,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A018,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Char Kuey Teow; vendor verification required.,2.00,addons,SHOP003-F005,True,True,False,False,,False,518,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A019,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Char Kuey Teow; vendor verification required.,1.50,addons,SHOP003-F005,True,True,False,False,,False,519,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A020,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Char Kuey Teow; vendor verification required.,1.00,addons,SHOP003-F005,True,True,False,False,,False,520,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A021,SHOP003,Kopitiam,Extra noodles / rice,Add-on,Sample optional add-on for Curry Laksa; vendor verification required.,2.00,addons,SHOP003-F006,True,True,False,False,,False,521,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A022,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Curry Laksa; vendor verification required.,2.00,addons,SHOP003-F006,True,True,False,False,,False,522,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A023,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Curry Laksa; vendor verification required.,1.50,addons,SHOP003-F006,True,True,False,False,,False,523,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A024,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Curry Laksa; vendor verification required.,1.00,addons,SHOP003-F006,True,True,False,False,,False,524,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A025,SHOP003,Kopitiam,Extra portion,Add-on,Sample optional add-on for Hainanese Toast Set; vendor verification required.,2.50,addons,SHOP003-F007,True,True,False,False,,False,525,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A026,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Hainanese Toast Set; vendor verification required.,2.00,addons,SHOP003-F007,True,True,False,False,,False,526,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A027,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Hainanese Toast Set; vendor verification required.,1.00,addons,SHOP003-F007,True,True,False,False,,False,527,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A028,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Hainanese Toast Set; vendor verification required.,1.50,addons,SHOP003-F007,True,True,False,False,,False,528,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A029,SHOP003,Kopitiam,Extra portion,Add-on,Sample optional add-on for Half-boiled Eggs; vendor verification required.,2.50,addons,SHOP003-F008,True,True,False,False,,False,529,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A030,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Half-boiled Eggs; vendor verification required.,2.00,addons,SHOP003-F008,True,True,False,False,,False,530,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A031,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Half-boiled Eggs; vendor verification required.,1.00,addons,SHOP003-F008,True,True,False,False,,False,531,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A032,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Half-boiled Eggs; vendor verification required.,1.50,addons,SHOP003-F008,True,True,False,False,,False,532,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A033,SHOP003,Kopitiam,Extra portion,Add-on,Sample optional add-on for Kaya Butter Toast; vendor verification required.,2.50,addons,SHOP003-F009,True,True,False,False,,False,533,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A034,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Kaya Butter Toast; vendor verification required.,2.00,addons,SHOP003-F009,True,True,False,False,,False,534,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A035,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Kaya Butter Toast; vendor verification required.,1.00,addons,SHOP003-F009,True,True,False,False,,False,535,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A036,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Kaya Butter Toast; vendor verification required.,1.50,addons,SHOP003-F009,True,True,False,False,,False,536,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A037,SHOP003,Kopitiam,Extra noodles / rice,Add-on,Sample optional add-on for Fried Rice; vendor verification required.,2.00,addons,SHOP003-F010,True,True,False,False,,False,537,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A038,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Fried Rice; vendor verification required.,2.00,addons,SHOP003-F010,True,True,False,False,,False,538,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A039,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Fried Rice; vendor verification required.,1.50,addons,SHOP003-F010,True,True,False,False,,False,539,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A040,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Fried Rice; vendor verification required.,1.00,addons,SHOP003-F010,True,True,False,False,,False,540,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A041,SHOP003,Kopitiam,Extra noodles / rice,Add-on,Sample optional add-on for Chicken Curry Rice; vendor verification required.,2.00,addons,SHOP003-F011,True,True,False,False,,False,541,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A042,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Chicken Curry Rice; vendor verification required.,2.00,addons,SHOP003-F011,True,True,False,False,,False,542,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A043,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Chicken Curry Rice; vendor verification required.,1.50,addons,SHOP003-F011,True,True,False,False,,False,543,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A044,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Chicken Curry Rice; vendor verification required.,1.00,addons,SHOP003-F011,True,True,False,False,,False,544,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A045,SHOP003,Kopitiam,Extra noodles / rice,Add-on,Sample optional add-on for Cantonese Yee Mee; vendor verification required.,2.00,addons,SHOP003-F012,True,True,False,False,,False,545,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A046,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Cantonese Yee Mee; vendor verification required.,2.00,addons,SHOP003-F012,True,True,False,False,,False,546,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A047,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Cantonese Yee Mee; vendor verification required.,1.50,addons,SHOP003-F012,True,True,False,False,,False,547,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A048,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Cantonese Yee Mee; vendor verification required.,1.00,addons,SHOP003-F012,True,True,False,False,,False,548,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A049,SHOP003,Kopitiam,Extra noodles / rice,Add-on,Sample optional add-on for Tom Yum Meehoon; vendor verification required.,2.00,addons,SHOP003-F013,True,True,False,False,,False,549,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A050,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Tom Yum Meehoon; vendor verification required.,2.00,addons,SHOP003-F013,True,True,False,False,,False,550,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A051,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Tom Yum Meehoon; vendor verification required.,1.50,addons,SHOP003-F013,True,True,False,False,,False,551,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A052,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Tom Yum Meehoon; vendor verification required.,1.00,addons,SHOP003-F013,True,True,False,False,,False,552,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A053,SHOP003,Kopitiam,Extra portion,Add-on,Sample optional add-on for Roti Bakar; vendor verification required.,2.50,addons,SHOP003-F014,True,True,False,False,,False,553,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A054,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Roti Bakar; vendor verification required.,2.00,addons,SHOP003-F014,True,True,False,False,,False,554,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A055,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Roti Bakar; vendor verification required.,1.00,addons,SHOP003-F014,True,True,False,False,,False,555,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A056,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Roti Bakar; vendor verification required.,1.50,addons,SHOP003-F014,True,True,False,False,,False,556,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A057,SHOP003,Kopitiam,Extra noodles / rice,Add-on,Sample optional add-on for Curry Puff; vendor verification required.,2.00,addons,SHOP003-F015,True,True,False,False,,False,557,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A058,SHOP003,Kopitiam,Fried egg,Add-on,Sample optional add-on for Curry Puff; vendor verification required.,2.00,addons,SHOP003-F015,True,True,False,False,,False,558,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A059,SHOP003,Kopitiam,Extra vegetables,Add-on,Sample optional add-on for Curry Puff; vendor verification required.,1.50,addons,SHOP003-F015,True,True,False,False,,False,559,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A060,SHOP003,Kopitiam,Extra sauce,Add-on,Sample optional add-on for Curry Puff; vendor verification required.,1.00,addons,SHOP003-F015,True,True,False,False,,False,560,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A061,SHOP003,Kopitiam,Less ice,Add-on,Sample optional add-on for Teh Tarik; vendor verification required.,0.00,addons,SHOP003-F016,True,True,False,False,,False,561,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A062,SHOP003,Kopitiam,Extra ice,Add-on,Sample optional add-on for Teh Tarik; vendor verification required.,0.00,addons,SHOP003-F016,True,True,False,False,,False,562,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A063,SHOP003,Kopitiam,Extra milk,Add-on,Sample optional add-on for Teh Tarik; vendor verification required.,1.50,addons,SHOP003-F016,True,True,False,False,,False,563,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A064,SHOP003,Kopitiam,Extra shot / syrup,Add-on,Sample optional add-on for Teh Tarik; vendor verification required.,2.00,addons,SHOP003-F016,True,True,False,False,,False,564,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A065,SHOP003,Kopitiam,Less ice,Add-on,Sample optional add-on for Kopi O; vendor verification required.,0.00,addons,SHOP003-F017,True,True,False,False,,False,565,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A066,SHOP003,Kopitiam,Extra ice,Add-on,Sample optional add-on for Kopi O; vendor verification required.,0.00,addons,SHOP003-F017,True,True,False,False,,False,566,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A067,SHOP003,Kopitiam,Extra milk,Add-on,Sample optional add-on for Kopi O; vendor verification required.,1.50,addons,SHOP003-F017,True,True,False,False,,False,567,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A068,SHOP003,Kopitiam,Extra shot / syrup,Add-on,Sample optional add-on for Kopi O; vendor verification required.,2.00,addons,SHOP003-F017,True,True,False,False,,False,568,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A069,SHOP003,Kopitiam,Less ice,Add-on,Sample optional add-on for Iced Milo; vendor verification required.,0.00,addons,SHOP003-F018,True,True,False,False,,False,569,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A070,SHOP003,Kopitiam,Extra ice,Add-on,Sample optional add-on for Iced Milo; vendor verification required.,0.00,addons,SHOP003-F018,True,True,False,False,,False,570,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A071,SHOP003,Kopitiam,Extra milk,Add-on,Sample optional add-on for Iced Milo; vendor verification required.,1.50,addons,SHOP003-F018,True,True,False,False,,False,571,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A072,SHOP003,Kopitiam,Extra shot / syrup,Add-on,Sample optional add-on for Iced Milo; vendor verification required.,2.00,addons,SHOP003-F018,True,True,False,False,,False,572,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A073,SHOP003,Kopitiam,Less ice,Add-on,Sample optional add-on for Lemon Tea; vendor verification required.,0.00,addons,SHOP003-F019,True,True,False,False,,False,573,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A074,SHOP003,Kopitiam,Extra ice,Add-on,Sample optional add-on for Lemon Tea; vendor verification required.,0.00,addons,SHOP003-F019,True,True,False,False,,False,574,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A075,SHOP003,Kopitiam,Extra milk,Add-on,Sample optional add-on for Lemon Tea; vendor verification required.,1.50,addons,SHOP003-F019,True,True,False,False,,False,575,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A076,SHOP003,Kopitiam,Extra shot / syrup,Add-on,Sample optional add-on for Lemon Tea; vendor verification required.,2.00,addons,SHOP003-F019,True,True,False,False,,False,576,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A077,SHOP003,Kopitiam,Less ice,Add-on,Sample optional add-on for Soy Milk; vendor verification required.,0.00,addons,SHOP003-F020,True,True,False,False,,False,577,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A078,SHOP003,Kopitiam,Extra ice,Add-on,Sample optional add-on for Soy Milk; vendor verification required.,0.00,addons,SHOP003-F020,True,True,False,False,,False,578,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A079,SHOP003,Kopitiam,Extra milk,Add-on,Sample optional add-on for Soy Milk; vendor verification required.,1.50,addons,SHOP003-F020,True,True,False,False,,False,579,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP003-A080,SHOP003,Kopitiam,Extra shot / syrup,Add-on,Sample optional add-on for Soy Milk; vendor verification required.,2.00,addons,SHOP003-F020,True,True,False,False,,False,580,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A001,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Chicken Katsu Don; vendor verification required.,2.50,addons,SHOP004-F001,True,True,False,False,,False,501,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A002,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Chicken Katsu Don; vendor verification required.,2.00,addons,SHOP004-F001,True,True,False,False,,False,502,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A003,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Chicken Katsu Don; vendor verification required.,1.00,addons,SHOP004-F001,True,True,False,False,,False,503,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A004,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Chicken Katsu Don; vendor verification required.,1.50,addons,SHOP004-F001,True,True,False,False,,False,504,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A005,SHOP004,Japanese & Korean,Extra noodles / rice,Add-on,Sample optional add-on for Japanese Curry Chicken Rice; vendor verification required.,2.00,addons,SHOP004-F002,True,True,False,False,,False,505,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A006,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Japanese Curry Chicken Rice; vendor verification required.,2.00,addons,SHOP004-F002,True,True,False,False,,False,506,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A007,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Japanese Curry Chicken Rice; vendor verification required.,1.50,addons,SHOP004-F002,True,True,False,False,,False,507,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A008,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Japanese Curry Chicken Rice; vendor verification required.,1.00,addons,SHOP004-F002,True,True,False,False,,False,508,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A009,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Beef Gyudon; vendor verification required.,2.50,addons,SHOP004-F003,True,True,False,False,,False,509,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A010,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Beef Gyudon; vendor verification required.,2.00,addons,SHOP004-F003,True,True,False,False,,False,510,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A011,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Beef Gyudon; vendor verification required.,1.00,addons,SHOP004-F003,True,True,False,False,,False,511,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A012,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Beef Gyudon; vendor verification required.,1.50,addons,SHOP004-F003,True,True,False,False,,False,512,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A013,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Chicken Teriyaki Don; vendor verification required.,2.50,addons,SHOP004-F004,True,True,False,False,,False,513,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A014,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Chicken Teriyaki Don; vendor verification required.,2.00,addons,SHOP004-F004,True,True,False,False,,False,514,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A015,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Chicken Teriyaki Don; vendor verification required.,1.00,addons,SHOP004-F004,True,True,False,False,,False,515,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A016,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Chicken Teriyaki Don; vendor verification required.,1.50,addons,SHOP004-F004,True,True,False,False,,False,516,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A017,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Salmon Teriyaki Don; vendor verification required.,2.50,addons,SHOP004-F005,True,True,False,False,,False,517,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A018,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Salmon Teriyaki Don; vendor verification required.,2.00,addons,SHOP004-F005,True,True,False,False,,False,518,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A019,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Salmon Teriyaki Don; vendor verification required.,1.00,addons,SHOP004-F005,True,True,False,False,,False,519,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A020,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Salmon Teriyaki Don; vendor verification required.,1.50,addons,SHOP004-F005,True,True,False,False,,False,520,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A021,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Tonkotsu Ramen; vendor verification required.,2.50,addons,SHOP004-F006,True,True,False,False,,False,521,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A022,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Tonkotsu Ramen; vendor verification required.,2.00,addons,SHOP004-F006,True,True,False,False,,False,522,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A023,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Tonkotsu Ramen; vendor verification required.,1.00,addons,SHOP004-F006,True,True,False,False,,False,523,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A024,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Tonkotsu Ramen; vendor verification required.,1.50,addons,SHOP004-F006,True,True,False,False,,False,524,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A025,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Shoyu Ramen; vendor verification required.,2.50,addons,SHOP004-F007,True,True,False,False,,False,525,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A026,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Shoyu Ramen; vendor verification required.,2.00,addons,SHOP004-F007,True,True,False,False,,False,526,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A027,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Shoyu Ramen; vendor verification required.,1.00,addons,SHOP004-F007,True,True,False,False,,False,527,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A028,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Shoyu Ramen; vendor verification required.,1.50,addons,SHOP004-F007,True,True,False,False,,False,528,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A029,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Chicken Karaage; vendor verification required.,2.50,addons,SHOP004-F008,True,True,False,False,,False,529,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A030,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Chicken Karaage; vendor verification required.,2.00,addons,SHOP004-F008,True,True,False,False,,False,530,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A031,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Chicken Karaage; vendor verification required.,1.00,addons,SHOP004-F008,True,True,False,False,,False,531,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A032,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Chicken Karaage; vendor verification required.,1.50,addons,SHOP004-F008,True,True,False,False,,False,532,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A033,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Gyoza 5pcs; vendor verification required.,2.50,addons,SHOP004-F009,True,True,False,False,,False,533,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A034,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Gyoza 5pcs; vendor verification required.,2.00,addons,SHOP004-F009,True,True,False,False,,False,534,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A035,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Gyoza 5pcs; vendor verification required.,1.00,addons,SHOP004-F009,True,True,False,False,,False,535,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A036,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Gyoza 5pcs; vendor verification required.,1.50,addons,SHOP004-F009,True,True,False,False,,False,536,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A037,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Tamago Sushi 4pcs; vendor verification required.,2.50,addons,SHOP004-F010,True,True,False,False,,False,537,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A038,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Tamago Sushi 4pcs; vendor verification required.,2.00,addons,SHOP004-F010,True,True,False,False,,False,538,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A039,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Tamago Sushi 4pcs; vendor verification required.,1.00,addons,SHOP004-F010,True,True,False,False,,False,539,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A040,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Tamago Sushi 4pcs; vendor verification required.,1.50,addons,SHOP004-F010,True,True,False,False,,False,540,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A041,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for California Roll; vendor verification required.,2.50,addons,SHOP004-F011,True,True,False,False,,False,541,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A042,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for California Roll; vendor verification required.,2.00,addons,SHOP004-F011,True,True,False,False,,False,542,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A043,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for California Roll; vendor verification required.,1.00,addons,SHOP004-F011,True,True,False,False,,False,543,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A044,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for California Roll; vendor verification required.,1.50,addons,SHOP004-F011,True,True,False,False,,False,544,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A045,SHOP004,Japanese & Korean,Extra noodles / rice,Add-on,Sample optional add-on for Kimchi Fried Rice; vendor verification required.,2.00,addons,SHOP004-F012,True,True,False,False,,False,545,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A046,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Kimchi Fried Rice; vendor verification required.,2.00,addons,SHOP004-F012,True,True,False,False,,False,546,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A047,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Kimchi Fried Rice; vendor verification required.,1.50,addons,SHOP004-F012,True,True,False,False,,False,547,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A048,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Kimchi Fried Rice; vendor verification required.,1.00,addons,SHOP004-F012,True,True,False,False,,False,548,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A049,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Bibimbap; vendor verification required.,2.50,addons,SHOP004-F013,True,True,False,False,,False,549,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A050,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Bibimbap; vendor verification required.,2.00,addons,SHOP004-F013,True,True,False,False,,False,550,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A051,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Bibimbap; vendor verification required.,1.00,addons,SHOP004-F013,True,True,False,False,,False,551,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A052,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Bibimbap; vendor verification required.,1.50,addons,SHOP004-F013,True,True,False,False,,False,552,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A053,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Korean Fried Chicken; vendor verification required.,2.50,addons,SHOP004-F014,True,True,False,False,,False,553,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A054,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Korean Fried Chicken; vendor verification required.,2.00,addons,SHOP004-F014,True,True,False,False,,False,554,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A055,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Korean Fried Chicken; vendor verification required.,1.00,addons,SHOP004-F014,True,True,False,False,,False,555,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A056,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Korean Fried Chicken; vendor verification required.,1.50,addons,SHOP004-F014,True,True,False,False,,False,556,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A057,SHOP004,Japanese & Korean,Extra noodles / rice,Add-on,Sample optional add-on for Bulgogi Beef Rice; vendor verification required.,2.00,addons,SHOP004-F015,True,True,False,False,,False,557,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A058,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Bulgogi Beef Rice; vendor verification required.,2.00,addons,SHOP004-F015,True,True,False,False,,False,558,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A059,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Bulgogi Beef Rice; vendor verification required.,1.50,addons,SHOP004-F015,True,True,False,False,,False,559,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A060,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Bulgogi Beef Rice; vendor verification required.,1.00,addons,SHOP004-F015,True,True,False,False,,False,560,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A061,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Jajangmyeon; vendor verification required.,2.50,addons,SHOP004-F016,True,True,False,False,,False,561,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A062,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Jajangmyeon; vendor verification required.,2.00,addons,SHOP004-F016,True,True,False,False,,False,562,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A063,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Jajangmyeon; vendor verification required.,1.00,addons,SHOP004-F016,True,True,False,False,,False,563,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A064,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Jajangmyeon; vendor verification required.,1.50,addons,SHOP004-F016,True,True,False,False,,False,564,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A065,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Tteokbokki; vendor verification required.,2.50,addons,SHOP004-F017,True,True,False,False,,False,565,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A066,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Tteokbokki; vendor verification required.,2.00,addons,SHOP004-F017,True,True,False,False,,False,566,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A067,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Tteokbokki; vendor verification required.,1.00,addons,SHOP004-F017,True,True,False,False,,False,567,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A068,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Tteokbokki; vendor verification required.,1.50,addons,SHOP004-F017,True,True,False,False,,False,568,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A069,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Korean Ramyeon; vendor verification required.,2.50,addons,SHOP004-F018,True,True,False,False,,False,569,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A070,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Korean Ramyeon; vendor verification required.,2.00,addons,SHOP004-F018,True,True,False,False,,False,570,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A071,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Korean Ramyeon; vendor verification required.,1.00,addons,SHOP004-F018,True,True,False,False,,False,571,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A072,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Korean Ramyeon; vendor verification required.,1.50,addons,SHOP004-F018,True,True,False,False,,False,572,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A073,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Korean Seaweed Soup; vendor verification required.,2.50,addons,SHOP004-F019,True,True,False,False,,False,573,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A074,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Korean Seaweed Soup; vendor verification required.,2.00,addons,SHOP004-F019,True,True,False,False,,False,574,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A075,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Korean Seaweed Soup; vendor verification required.,1.00,addons,SHOP004-F019,True,True,False,False,,False,575,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A076,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Korean Seaweed Soup; vendor verification required.,1.50,addons,SHOP004-F019,True,True,False,False,,False,576,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A077,SHOP004,Japanese & Korean,Extra portion,Add-on,Sample optional add-on for Mandu 5pcs; vendor verification required.,2.50,addons,SHOP004-F020,True,True,False,False,,False,577,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A078,SHOP004,Japanese & Korean,Fried egg,Add-on,Sample optional add-on for Mandu 5pcs; vendor verification required.,2.00,addons,SHOP004-F020,True,True,False,False,,False,578,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A079,SHOP004,Japanese & Korean,Extra sauce,Add-on,Sample optional add-on for Mandu 5pcs; vendor verification required.,1.00,addons,SHOP004-F020,True,True,False,False,,False,579,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP004-A080,SHOP004,Japanese & Korean,Extra vegetables,Add-on,Sample optional add-on for Mandu 5pcs; vendor verification required.,1.50,addons,SHOP004-F020,True,True,False,False,,False,580,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A001,SHOP005,Mamak,Extra noodles / rice,Add-on,Sample optional add-on for Nasi Goreng Kampung; vendor verification required.,2.00,addons,SHOP005-F001,True,True,False,False,,False,501,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A002,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Nasi Goreng Kampung; vendor verification required.,2.00,addons,SHOP005-F001,True,True,False,False,,False,502,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A003,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Nasi Goreng Kampung; vendor verification required.,1.50,addons,SHOP005-F001,True,True,False,False,,False,503,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A004,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Nasi Goreng Kampung; vendor verification required.,1.00,addons,SHOP005-F001,True,True,False,False,,False,504,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A005,SHOP005,Mamak,Extra noodles / rice,Add-on,Sample optional add-on for Nasi Goreng Ayam; vendor verification required.,2.00,addons,SHOP005-F002,True,True,False,False,,False,505,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A006,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Nasi Goreng Ayam; vendor verification required.,2.00,addons,SHOP005-F002,True,True,False,False,,False,506,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A007,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Nasi Goreng Ayam; vendor verification required.,1.50,addons,SHOP005-F002,True,True,False,False,,False,507,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A008,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Nasi Goreng Ayam; vendor verification required.,1.00,addons,SHOP005-F002,True,True,False,False,,False,508,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A009,SHOP005,Mamak,Extra noodles / rice,Add-on,Sample optional add-on for Maggi Goreng; vendor verification required.,2.00,addons,SHOP005-F003,True,True,False,False,,False,509,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A010,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Maggi Goreng; vendor verification required.,2.00,addons,SHOP005-F003,True,True,False,False,,False,510,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A011,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Maggi Goreng; vendor verification required.,1.50,addons,SHOP005-F003,True,True,False,False,,False,511,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A012,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Maggi Goreng; vendor verification required.,1.00,addons,SHOP005-F003,True,True,False,False,,False,512,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A013,SHOP005,Mamak,Extra noodles / rice,Add-on,Sample optional add-on for Mee Goreng Mamak; vendor verification required.,2.00,addons,SHOP005-F004,True,True,False,False,,False,513,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A014,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Mee Goreng Mamak; vendor verification required.,2.00,addons,SHOP005-F004,True,True,False,False,,False,514,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A015,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Mee Goreng Mamak; vendor verification required.,1.50,addons,SHOP005-F004,True,True,False,False,,False,515,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A016,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Mee Goreng Mamak; vendor verification required.,1.00,addons,SHOP005-F004,True,True,False,False,,False,516,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A017,SHOP005,Mamak,Extra portion,Add-on,Sample optional add-on for Roti Canai; vendor verification required.,2.50,addons,SHOP005-F005,True,True,False,False,,False,517,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A018,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Roti Canai; vendor verification required.,2.00,addons,SHOP005-F005,True,True,False,False,,False,518,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A019,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Roti Canai; vendor verification required.,1.00,addons,SHOP005-F005,True,True,False,False,,False,519,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A020,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Roti Canai; vendor verification required.,1.50,addons,SHOP005-F005,True,True,False,False,,False,520,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A021,SHOP005,Mamak,Extra portion,Add-on,Sample optional add-on for Roti Telur; vendor verification required.,2.50,addons,SHOP005-F006,True,True,False,False,,False,521,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A022,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Roti Telur; vendor verification required.,2.00,addons,SHOP005-F006,True,True,False,False,,False,522,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A023,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Roti Telur; vendor verification required.,1.00,addons,SHOP005-F006,True,True,False,False,,False,523,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A024,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Roti Telur; vendor verification required.,1.50,addons,SHOP005-F006,True,True,False,False,,False,524,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A025,SHOP005,Mamak,Extra portion,Add-on,Sample optional add-on for Roti Planta; vendor verification required.,2.50,addons,SHOP005-F007,True,True,False,False,,False,525,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A026,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Roti Planta; vendor verification required.,2.00,addons,SHOP005-F007,True,True,False,False,,False,526,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A027,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Roti Planta; vendor verification required.,1.00,addons,SHOP005-F007,True,True,False,False,,False,527,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A028,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Roti Planta; vendor verification required.,1.50,addons,SHOP005-F007,True,True,False,False,,False,528,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A029,SHOP005,Mamak,Extra portion,Add-on,Sample optional add-on for Roti Sardin; vendor verification required.,2.50,addons,SHOP005-F008,True,True,False,False,,False,529,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A030,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Roti Sardin; vendor verification required.,2.00,addons,SHOP005-F008,True,True,False,False,,False,530,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A031,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Roti Sardin; vendor verification required.,1.00,addons,SHOP005-F008,True,True,False,False,,False,531,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A032,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Roti Sardin; vendor verification required.,1.50,addons,SHOP005-F008,True,True,False,False,,False,532,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A033,SHOP005,Mamak,Extra portion,Add-on,Sample optional add-on for Murtabak Ayam; vendor verification required.,2.50,addons,SHOP005-F009,True,True,False,False,,False,533,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A034,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Murtabak Ayam; vendor verification required.,2.00,addons,SHOP005-F009,True,True,False,False,,False,534,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A035,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Murtabak Ayam; vendor verification required.,1.00,addons,SHOP005-F009,True,True,False,False,,False,535,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A036,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Murtabak Ayam; vendor verification required.,1.50,addons,SHOP005-F009,True,True,False,False,,False,536,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A037,SHOP005,Mamak,Extra portion,Add-on,Sample optional add-on for Thosai; vendor verification required.,2.50,addons,SHOP005-F010,True,True,False,False,,False,537,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A038,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Thosai; vendor verification required.,2.00,addons,SHOP005-F010,True,True,False,False,,False,538,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A039,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Thosai; vendor verification required.,1.00,addons,SHOP005-F010,True,True,False,False,,False,539,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A040,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Thosai; vendor verification required.,1.50,addons,SHOP005-F010,True,True,False,False,,False,540,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A041,SHOP005,Mamak,Extra noodles / rice,Add-on,Sample optional add-on for Chicken Curry; vendor verification required.,2.00,addons,SHOP005-F011,True,True,False,False,,False,541,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A042,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Chicken Curry; vendor verification required.,2.00,addons,SHOP005-F011,True,True,False,False,,False,542,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A043,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Chicken Curry; vendor verification required.,1.50,addons,SHOP005-F011,True,True,False,False,,False,543,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A044,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Chicken Curry; vendor verification required.,1.00,addons,SHOP005-F011,True,True,False,False,,False,544,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A045,SHOP005,Mamak,Extra noodles / rice,Add-on,Sample optional add-on for Fish Curry; vendor verification required.,2.00,addons,SHOP005-F012,True,True,False,False,,False,545,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A046,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Fish Curry; vendor verification required.,2.00,addons,SHOP005-F012,True,True,False,False,,False,546,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A047,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Fish Curry; vendor verification required.,1.50,addons,SHOP005-F012,True,True,False,False,,False,547,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A048,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Fish Curry; vendor verification required.,1.00,addons,SHOP005-F012,True,True,False,False,,False,548,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A049,SHOP005,Mamak,Extra portion,Add-on,Sample optional add-on for Sambal Squid; vendor verification required.,2.50,addons,SHOP005-F013,True,True,False,False,,False,549,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A050,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Sambal Squid; vendor verification required.,2.00,addons,SHOP005-F013,True,True,False,False,,False,550,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A051,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Sambal Squid; vendor verification required.,1.00,addons,SHOP005-F013,True,True,False,False,,False,551,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A052,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Sambal Squid; vendor verification required.,1.50,addons,SHOP005-F013,True,True,False,False,,False,552,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A053,SHOP005,Mamak,Extra portion,Add-on,Sample optional add-on for Fried Chicken; vendor verification required.,2.50,addons,SHOP005-F014,True,True,False,False,,False,553,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A054,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Fried Chicken; vendor verification required.,2.00,addons,SHOP005-F014,True,True,False,False,,False,554,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A055,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Fried Chicken; vendor verification required.,1.00,addons,SHOP005-F014,True,True,False,False,,False,555,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A056,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Fried Chicken; vendor verification required.,1.50,addons,SHOP005-F014,True,True,False,False,,False,556,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A057,SHOP005,Mamak,Extra portion,Add-on,Sample optional add-on for Sambal Egg; vendor verification required.,2.50,addons,SHOP005-F015,True,True,False,False,,False,557,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A058,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Sambal Egg; vendor verification required.,2.00,addons,SHOP005-F015,True,True,False,False,,False,558,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A059,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Sambal Egg; vendor verification required.,1.00,addons,SHOP005-F015,True,True,False,False,,False,559,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A060,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Sambal Egg; vendor verification required.,1.50,addons,SHOP005-F015,True,True,False,False,,False,560,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A061,SHOP005,Mamak,Extra portion,Add-on,Sample optional add-on for Dhal; vendor verification required.,2.50,addons,SHOP005-F016,True,True,False,False,,False,561,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A062,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Dhal; vendor verification required.,2.00,addons,SHOP005-F016,True,True,False,False,,False,562,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A063,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Dhal; vendor verification required.,1.00,addons,SHOP005-F016,True,True,False,False,,False,563,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A064,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Dhal; vendor verification required.,1.50,addons,SHOP005-F016,True,True,False,False,,False,564,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A065,SHOP005,Mamak,Extra portion,Add-on,Sample optional add-on for Papadom; vendor verification required.,2.50,addons,SHOP005-F017,True,True,False,False,,False,565,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A066,SHOP005,Mamak,Fried egg,Add-on,Sample optional add-on for Papadom; vendor verification required.,2.00,addons,SHOP005-F017,True,True,False,False,,False,566,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A067,SHOP005,Mamak,Extra sauce,Add-on,Sample optional add-on for Papadom; vendor verification required.,1.00,addons,SHOP005-F017,True,True,False,False,,False,567,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A068,SHOP005,Mamak,Extra vegetables,Add-on,Sample optional add-on for Papadom; vendor verification required.,1.50,addons,SHOP005-F017,True,True,False,False,,False,568,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A069,SHOP005,Mamak,Less ice,Add-on,Sample optional add-on for Teh Tarik; vendor verification required.,0.00,addons,SHOP005-F018,True,True,False,False,,False,569,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A070,SHOP005,Mamak,Extra ice,Add-on,Sample optional add-on for Teh Tarik; vendor verification required.,0.00,addons,SHOP005-F018,True,True,False,False,,False,570,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A071,SHOP005,Mamak,Extra milk,Add-on,Sample optional add-on for Teh Tarik; vendor verification required.,1.50,addons,SHOP005-F018,True,True,False,False,,False,571,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A072,SHOP005,Mamak,Extra shot / syrup,Add-on,Sample optional add-on for Teh Tarik; vendor verification required.,2.00,addons,SHOP005-F018,True,True,False,False,,False,572,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A073,SHOP005,Mamak,Less ice,Add-on,Sample optional add-on for Milo Ais; vendor verification required.,0.00,addons,SHOP005-F019,True,True,False,False,,False,573,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A074,SHOP005,Mamak,Extra ice,Add-on,Sample optional add-on for Milo Ais; vendor verification required.,0.00,addons,SHOP005-F019,True,True,False,False,,False,574,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A075,SHOP005,Mamak,Extra milk,Add-on,Sample optional add-on for Milo Ais; vendor verification required.,1.50,addons,SHOP005-F019,True,True,False,False,,False,575,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A076,SHOP005,Mamak,Extra shot / syrup,Add-on,Sample optional add-on for Milo Ais; vendor verification required.,2.00,addons,SHOP005-F019,True,True,False,False,,False,576,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A077,SHOP005,Mamak,Less ice,Add-on,Sample optional add-on for Limau Ais; vendor verification required.,0.00,addons,SHOP005-F020,True,True,False,False,,False,577,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A078,SHOP005,Mamak,Extra ice,Add-on,Sample optional add-on for Limau Ais; vendor verification required.,0.00,addons,SHOP005-F020,True,True,False,False,,False,578,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A079,SHOP005,Mamak,Extra milk,Add-on,Sample optional add-on for Limau Ais; vendor verification required.,1.50,addons,SHOP005-F020,True,True,False,False,,False,579,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP005-A080,SHOP005,Mamak,Extra shot / syrup,Add-on,Sample optional add-on for Limau Ais; vendor verification required.,2.00,addons,SHOP005-F020,True,True,False,False,,False,580,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A001,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Chicken Shawarma Wrap; vendor verification required.,2.50,addons,SHOP006-F001,True,True,False,False,,False,501,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A002,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Chicken Shawarma Wrap; vendor verification required.,2.00,addons,SHOP006-F001,True,True,False,False,,False,502,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A003,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Chicken Shawarma Wrap; vendor verification required.,1.00,addons,SHOP006-F001,True,True,False,False,,False,503,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A004,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Chicken Shawarma Wrap; vendor verification required.,1.50,addons,SHOP006-F001,True,True,False,False,,False,504,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A005,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Beef Shawarma Wrap; vendor verification required.,2.50,addons,SHOP006-F002,True,True,False,False,,False,505,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A006,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Beef Shawarma Wrap; vendor verification required.,2.00,addons,SHOP006-F002,True,True,False,False,,False,506,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A007,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Beef Shawarma Wrap; vendor verification required.,1.00,addons,SHOP006-F002,True,True,False,False,,False,507,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A008,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Beef Shawarma Wrap; vendor verification required.,1.50,addons,SHOP006-F002,True,True,False,False,,False,508,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A009,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Mixed Shawarma Wrap; vendor verification required.,2.50,addons,SHOP006-F003,True,True,False,False,,False,509,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A010,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Mixed Shawarma Wrap; vendor verification required.,2.00,addons,SHOP006-F003,True,True,False,False,,False,510,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A011,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Mixed Shawarma Wrap; vendor verification required.,1.00,addons,SHOP006-F003,True,True,False,False,,False,511,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A012,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Mixed Shawarma Wrap; vendor verification required.,1.50,addons,SHOP006-F003,True,True,False,False,,False,512,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A013,SHOP006,Shawarma,Extra noodles / rice,Add-on,Sample optional add-on for Chicken Shawarma Rice; vendor verification required.,2.00,addons,SHOP006-F004,True,True,False,False,,False,513,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A014,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Chicken Shawarma Rice; vendor verification required.,2.00,addons,SHOP006-F004,True,True,False,False,,False,514,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A015,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Chicken Shawarma Rice; vendor verification required.,1.50,addons,SHOP006-F004,True,True,False,False,,False,515,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A016,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Chicken Shawarma Rice; vendor verification required.,1.00,addons,SHOP006-F004,True,True,False,False,,False,516,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A017,SHOP006,Shawarma,Extra noodles / rice,Add-on,Sample optional add-on for Beef Shawarma Rice; vendor verification required.,2.00,addons,SHOP006-F005,True,True,False,False,,False,517,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A018,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Beef Shawarma Rice; vendor verification required.,2.00,addons,SHOP006-F005,True,True,False,False,,False,518,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A019,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Beef Shawarma Rice; vendor verification required.,1.50,addons,SHOP006-F005,True,True,False,False,,False,519,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A020,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Beef Shawarma Rice; vendor verification required.,1.00,addons,SHOP006-F005,True,True,False,False,,False,520,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A021,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Chicken Pita Pocket; vendor verification required.,2.50,addons,SHOP006-F006,True,True,False,False,,False,521,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A022,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Chicken Pita Pocket; vendor verification required.,2.00,addons,SHOP006-F006,True,True,False,False,,False,522,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A023,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Chicken Pita Pocket; vendor verification required.,1.00,addons,SHOP006-F006,True,True,False,False,,False,523,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A024,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Chicken Pita Pocket; vendor verification required.,1.50,addons,SHOP006-F006,True,True,False,False,,False,524,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A025,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Beef Pita Pocket; vendor verification required.,2.50,addons,SHOP006-F007,True,True,False,False,,False,525,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A026,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Beef Pita Pocket; vendor verification required.,2.00,addons,SHOP006-F007,True,True,False,False,,False,526,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A027,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Beef Pita Pocket; vendor verification required.,1.00,addons,SHOP006-F007,True,True,False,False,,False,527,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A028,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Beef Pita Pocket; vendor verification required.,1.50,addons,SHOP006-F007,True,True,False,False,,False,528,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A029,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Falafel Wrap; vendor verification required.,2.50,addons,SHOP006-F008,True,True,False,False,,False,529,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A030,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Falafel Wrap; vendor verification required.,2.00,addons,SHOP006-F008,True,True,False,False,,False,530,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A031,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Falafel Wrap; vendor verification required.,1.00,addons,SHOP006-F008,True,True,False,False,,False,531,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A032,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Falafel Wrap; vendor verification required.,1.50,addons,SHOP006-F008,True,True,False,False,,False,532,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A033,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Falafel Plate; vendor verification required.,2.50,addons,SHOP006-F009,True,True,False,False,,False,533,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A034,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Falafel Plate; vendor verification required.,2.00,addons,SHOP006-F009,True,True,False,False,,False,534,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A035,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Falafel Plate; vendor verification required.,1.00,addons,SHOP006-F009,True,True,False,False,,False,535,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A036,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Falafel Plate; vendor verification required.,1.50,addons,SHOP006-F009,True,True,False,False,,False,536,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A037,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Chicken Kebab; vendor verification required.,2.50,addons,SHOP006-F010,True,True,False,False,,False,537,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A038,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Chicken Kebab; vendor verification required.,2.00,addons,SHOP006-F010,True,True,False,False,,False,538,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A039,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Chicken Kebab; vendor verification required.,1.00,addons,SHOP006-F010,True,True,False,False,,False,539,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A040,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Chicken Kebab; vendor verification required.,1.50,addons,SHOP006-F010,True,True,False,False,,False,540,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A041,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Beef Kebab; vendor verification required.,2.50,addons,SHOP006-F011,True,True,False,False,,False,541,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A042,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Beef Kebab; vendor verification required.,2.00,addons,SHOP006-F011,True,True,False,False,,False,542,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A043,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Beef Kebab; vendor verification required.,1.00,addons,SHOP006-F011,True,True,False,False,,False,543,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A044,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Beef Kebab; vendor verification required.,1.50,addons,SHOP006-F011,True,True,False,False,,False,544,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A045,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Chicken Hummus Bowl; vendor verification required.,2.50,addons,SHOP006-F012,True,True,False,False,,False,545,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A046,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Chicken Hummus Bowl; vendor verification required.,2.00,addons,SHOP006-F012,True,True,False,False,,False,546,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A047,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Chicken Hummus Bowl; vendor verification required.,1.00,addons,SHOP006-F012,True,True,False,False,,False,547,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A048,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Chicken Hummus Bowl; vendor verification required.,1.50,addons,SHOP006-F012,True,True,False,False,,False,548,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A049,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Lamb Shawarma Wrap; vendor verification required.,2.50,addons,SHOP006-F013,True,True,False,False,,False,549,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A050,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Lamb Shawarma Wrap; vendor verification required.,2.00,addons,SHOP006-F013,True,True,False,False,,False,550,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A051,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Lamb Shawarma Wrap; vendor verification required.,1.00,addons,SHOP006-F013,True,True,False,False,,False,551,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A052,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Lamb Shawarma Wrap; vendor verification required.,1.50,addons,SHOP006-F013,True,True,False,False,,False,552,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A053,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Chicken Cheese Wrap; vendor verification required.,2.50,addons,SHOP006-F014,True,True,False,False,,False,553,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A054,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Chicken Cheese Wrap; vendor verification required.,2.00,addons,SHOP006-F014,True,True,False,False,,False,554,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A055,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Chicken Cheese Wrap; vendor verification required.,1.00,addons,SHOP006-F014,True,True,False,False,,False,555,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A056,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Chicken Cheese Wrap; vendor verification required.,1.50,addons,SHOP006-F014,True,True,False,False,,False,556,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A057,SHOP006,Shawarma,Extra cheese,Add-on,Sample optional add-on for Shawarma Fries; vendor verification required.,2.00,addons,SHOP006-F015,True,True,False,False,,False,557,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A058,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Shawarma Fries; vendor verification required.,1.00,addons,SHOP006-F015,True,True,False,False,,False,558,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A059,SHOP006,Shawarma,Add egg,Add-on,Sample optional add-on for Shawarma Fries; vendor verification required.,2.00,addons,SHOP006-F015,True,True,False,False,,False,559,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A060,SHOP006,Shawarma,Extra fries,Add-on,Sample optional add-on for Shawarma Fries; vendor verification required.,3.00,addons,SHOP006-F015,True,True,False,False,,False,560,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A061,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Hummus with Pita; vendor verification required.,2.50,addons,SHOP006-F016,True,True,False,False,,False,561,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A062,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Hummus with Pita; vendor verification required.,2.00,addons,SHOP006-F016,True,True,False,False,,False,562,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A063,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Hummus with Pita; vendor verification required.,1.00,addons,SHOP006-F016,True,True,False,False,,False,563,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A064,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Hummus with Pita; vendor verification required.,1.50,addons,SHOP006-F016,True,True,False,False,,False,564,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A065,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Tabbouleh Salad; vendor verification required.,2.50,addons,SHOP006-F017,True,True,False,False,,False,565,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A066,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Tabbouleh Salad; vendor verification required.,2.00,addons,SHOP006-F017,True,True,False,False,,False,566,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A067,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Tabbouleh Salad; vendor verification required.,1.00,addons,SHOP006-F017,True,True,False,False,,False,567,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A068,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Tabbouleh Salad; vendor verification required.,1.50,addons,SHOP006-F017,True,True,False,False,,False,568,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A069,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Greek Salad; vendor verification required.,2.50,addons,SHOP006-F018,True,True,False,False,,False,569,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A070,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Greek Salad; vendor verification required.,2.00,addons,SHOP006-F018,True,True,False,False,,False,570,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A071,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Greek Salad; vendor verification required.,1.00,addons,SHOP006-F018,True,True,False,False,,False,571,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A072,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Greek Salad; vendor verification required.,1.50,addons,SHOP006-F018,True,True,False,False,,False,572,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A073,SHOP006,Shawarma,Extra portion,Add-on,Sample optional add-on for Chicken Nuggets; vendor verification required.,2.50,addons,SHOP006-F019,True,True,False,False,,False,573,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A074,SHOP006,Shawarma,Fried egg,Add-on,Sample optional add-on for Chicken Nuggets; vendor verification required.,2.00,addons,SHOP006-F019,True,True,False,False,,False,574,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A075,SHOP006,Shawarma,Extra sauce,Add-on,Sample optional add-on for Chicken Nuggets; vendor verification required.,1.00,addons,SHOP006-F019,True,True,False,False,,False,575,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A076,SHOP006,Shawarma,Extra vegetables,Add-on,Sample optional add-on for Chicken Nuggets; vendor verification required.,1.50,addons,SHOP006-F019,True,True,False,False,,False,576,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A077,SHOP006,Shawarma,Less ice,Add-on,Sample optional add-on for Mint Lemonade; vendor verification required.,0.00,addons,SHOP006-F020,True,True,False,False,,False,577,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A078,SHOP006,Shawarma,Extra ice,Add-on,Sample optional add-on for Mint Lemonade; vendor verification required.,0.00,addons,SHOP006-F020,True,True,False,False,,False,578,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A079,SHOP006,Shawarma,Extra milk,Add-on,Sample optional add-on for Mint Lemonade; vendor verification required.,1.50,addons,SHOP006-F020,True,True,False,False,,False,579,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP006-A080,SHOP006,Shawarma,Extra shot / syrup,Add-on,Sample optional add-on for Mint Lemonade; vendor verification required.,2.00,addons,SHOP006-F020,True,True,False,False,,False,580,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A001,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Chicken Rice; vendor verification required.,2.00,addons,SHOP007-F001,True,True,False,False,,False,501,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A002,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Chicken Rice; vendor verification required.,2.00,addons,SHOP007-F001,True,True,False,False,,False,502,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A003,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Chicken Rice; vendor verification required.,1.50,addons,SHOP007-F001,True,True,False,False,,False,503,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A004,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Chicken Rice; vendor verification required.,1.00,addons,SHOP007-F001,True,True,False,False,,False,504,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A005,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Roasted Chicken Rice; vendor verification required.,2.00,addons,SHOP007-F002,True,True,False,False,,False,505,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A006,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Roasted Chicken Rice; vendor verification required.,2.00,addons,SHOP007-F002,True,True,False,False,,False,506,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A007,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Roasted Chicken Rice; vendor verification required.,1.50,addons,SHOP007-F002,True,True,False,False,,False,507,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A008,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Roasted Chicken Rice; vendor verification required.,1.00,addons,SHOP007-F002,True,True,False,False,,False,508,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A009,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Yee Mee Soup; vendor verification required.,2.00,addons,SHOP007-F003,True,True,False,False,,False,509,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A010,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Yee Mee Soup; vendor verification required.,2.00,addons,SHOP007-F003,True,True,False,False,,False,510,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A011,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Yee Mee Soup; vendor verification required.,1.50,addons,SHOP007-F003,True,True,False,False,,False,511,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A012,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Yee Mee Soup; vendor verification required.,1.00,addons,SHOP007-F003,True,True,False,False,,False,512,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A013,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Cantonese Yee Mee; vendor verification required.,2.00,addons,SHOP007-F004,True,True,False,False,,False,513,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A014,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Cantonese Yee Mee; vendor verification required.,2.00,addons,SHOP007-F004,True,True,False,False,,False,514,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A015,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Cantonese Yee Mee; vendor verification required.,1.50,addons,SHOP007-F004,True,True,False,False,,False,515,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A016,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Cantonese Yee Mee; vendor verification required.,1.00,addons,SHOP007-F004,True,True,False,False,,False,516,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A017,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Fried Yee Mee; vendor verification required.,2.00,addons,SHOP007-F005,True,True,False,False,,False,517,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A018,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Fried Yee Mee; vendor verification required.,2.00,addons,SHOP007-F005,True,True,False,False,,False,518,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A019,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Fried Yee Mee; vendor verification required.,1.50,addons,SHOP007-F005,True,True,False,False,,False,519,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A020,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Fried Yee Mee; vendor verification required.,1.00,addons,SHOP007-F005,True,True,False,False,,False,520,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A021,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Mee Hoon Soup; vendor verification required.,2.00,addons,SHOP007-F006,True,True,False,False,,False,521,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A022,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Mee Hoon Soup; vendor verification required.,2.00,addons,SHOP007-F006,True,True,False,False,,False,522,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A023,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Mee Hoon Soup; vendor verification required.,1.50,addons,SHOP007-F006,True,True,False,False,,False,523,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A024,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Mee Hoon Soup; vendor verification required.,1.00,addons,SHOP007-F006,True,True,False,False,,False,524,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A025,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Tom Yum Noodles; vendor verification required.,2.00,addons,SHOP007-F007,True,True,False,False,,False,525,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A026,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Tom Yum Noodles; vendor verification required.,2.00,addons,SHOP007-F007,True,True,False,False,,False,526,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A027,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Tom Yum Noodles; vendor verification required.,1.50,addons,SHOP007-F007,True,True,False,False,,False,527,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A028,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Tom Yum Noodles; vendor verification required.,1.00,addons,SHOP007-F007,True,True,False,False,,False,528,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A029,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Pan Mee; vendor verification required.,2.00,addons,SHOP007-F008,True,True,False,False,,False,529,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A030,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Pan Mee; vendor verification required.,2.00,addons,SHOP007-F008,True,True,False,False,,False,530,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A031,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Pan Mee; vendor verification required.,1.50,addons,SHOP007-F008,True,True,False,False,,False,531,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A032,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Pan Mee; vendor verification required.,1.00,addons,SHOP007-F008,True,True,False,False,,False,532,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A033,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Curry Mee; vendor verification required.,2.00,addons,SHOP007-F009,True,True,False,False,,False,533,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A034,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Curry Mee; vendor verification required.,2.00,addons,SHOP007-F009,True,True,False,False,,False,534,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A035,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Curry Mee; vendor verification required.,1.50,addons,SHOP007-F009,True,True,False,False,,False,535,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A036,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Curry Mee; vendor verification required.,1.00,addons,SHOP007-F009,True,True,False,False,,False,536,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A037,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Nasi Lemak Ayam; vendor verification required.,2.00,addons,SHOP007-F010,True,True,False,False,,False,537,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A038,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Nasi Lemak Ayam; vendor verification required.,2.00,addons,SHOP007-F010,True,True,False,False,,False,538,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A039,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Nasi Lemak Ayam; vendor verification required.,1.50,addons,SHOP007-F010,True,True,False,False,,False,539,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A040,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Nasi Lemak Ayam; vendor verification required.,1.00,addons,SHOP007-F010,True,True,False,False,,False,540,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A041,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Nasi Goreng Kampung; vendor verification required.,2.00,addons,SHOP007-F011,True,True,False,False,,False,541,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A042,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Nasi Goreng Kampung; vendor verification required.,2.00,addons,SHOP007-F011,True,True,False,False,,False,542,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A043,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Nasi Goreng Kampung; vendor verification required.,1.50,addons,SHOP007-F011,True,True,False,False,,False,543,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A044,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Nasi Goreng Kampung; vendor verification required.,1.00,addons,SHOP007-F011,True,True,False,False,,False,544,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A045,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Ayam Penyet; vendor verification required.,2.00,addons,SHOP007-F012,True,True,False,False,,False,545,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A046,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Ayam Penyet; vendor verification required.,2.00,addons,SHOP007-F012,True,True,False,False,,False,546,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A047,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Ayam Penyet; vendor verification required.,1.50,addons,SHOP007-F012,True,True,False,False,,False,547,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A048,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Ayam Penyet; vendor verification required.,1.00,addons,SHOP007-F012,True,True,False,False,,False,548,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A049,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Nasi Ayam Penyet; vendor verification required.,2.00,addons,SHOP007-F013,True,True,False,False,,False,549,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A050,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Nasi Ayam Penyet; vendor verification required.,2.00,addons,SHOP007-F013,True,True,False,False,,False,550,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A051,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Nasi Ayam Penyet; vendor verification required.,1.50,addons,SHOP007-F013,True,True,False,False,,False,551,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A052,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Nasi Ayam Penyet; vendor verification required.,1.00,addons,SHOP007-F013,True,True,False,False,,False,552,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A053,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Sweet and Sour Chicken Rice; vendor verification required.,2.00,addons,SHOP007-F014,True,True,False,False,,False,553,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A054,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Sweet and Sour Chicken Rice; vendor verification required.,2.00,addons,SHOP007-F014,True,True,False,False,,False,554,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A055,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Sweet and Sour Chicken Rice; vendor verification required.,1.50,addons,SHOP007-F014,True,True,False,False,,False,555,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A056,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Sweet and Sour Chicken Rice; vendor verification required.,1.00,addons,SHOP007-F014,True,True,False,False,,False,556,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A057,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Black Pepper Chicken Rice; vendor verification required.,2.00,addons,SHOP007-F015,True,True,False,False,,False,557,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A058,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Black Pepper Chicken Rice; vendor verification required.,2.00,addons,SHOP007-F015,True,True,False,False,,False,558,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A059,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Black Pepper Chicken Rice; vendor verification required.,1.50,addons,SHOP007-F015,True,True,False,False,,False,559,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A060,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Black Pepper Chicken Rice; vendor verification required.,1.00,addons,SHOP007-F015,True,True,False,False,,False,560,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A061,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Beef Hor Fun; vendor verification required.,2.00,addons,SHOP007-F016,True,True,False,False,,False,561,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A062,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Beef Hor Fun; vendor verification required.,2.00,addons,SHOP007-F016,True,True,False,False,,False,562,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A063,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Beef Hor Fun; vendor verification required.,1.50,addons,SHOP007-F016,True,True,False,False,,False,563,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A064,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Beef Hor Fun; vendor verification required.,1.00,addons,SHOP007-F016,True,True,False,False,,False,564,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A065,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Fried Rice; vendor verification required.,2.00,addons,SHOP007-F017,True,True,False,False,,False,565,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A066,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Fried Rice; vendor verification required.,2.00,addons,SHOP007-F017,True,True,False,False,,False,566,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A067,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Fried Rice; vendor verification required.,1.50,addons,SHOP007-F017,True,True,False,False,,False,567,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A068,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Fried Rice; vendor verification required.,1.00,addons,SHOP007-F017,True,True,False,False,,False,568,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A069,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Wonton Soup; vendor verification required.,2.00,addons,SHOP007-F018,True,True,False,False,,False,569,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A070,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Wonton Soup; vendor verification required.,2.00,addons,SHOP007-F018,True,True,False,False,,False,570,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A071,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Wonton Soup; vendor verification required.,1.50,addons,SHOP007-F018,True,True,False,False,,False,571,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A072,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Wonton Soup; vendor verification required.,1.00,addons,SHOP007-F018,True,True,False,False,,False,572,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A073,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Crispy Chicken Chop Rice; vendor verification required.,2.00,addons,SHOP007-F019,True,True,False,False,,False,573,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A074,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Crispy Chicken Chop Rice; vendor verification required.,2.00,addons,SHOP007-F019,True,True,False,False,,False,574,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A075,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Crispy Chicken Chop Rice; vendor verification required.,1.50,addons,SHOP007-F019,True,True,False,False,,False,575,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A076,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Crispy Chicken Chop Rice; vendor verification required.,1.00,addons,SHOP007-F019,True,True,False,False,,False,576,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A077,SHOP007,Asian Cuisine,Extra noodles / rice,Add-on,Sample optional add-on for Vegetarian Fried Noodles; vendor verification required.,2.00,addons,SHOP007-F020,True,True,False,False,,False,577,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A078,SHOP007,Asian Cuisine,Fried egg,Add-on,Sample optional add-on for Vegetarian Fried Noodles; vendor verification required.,2.00,addons,SHOP007-F020,True,True,False,False,,False,578,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A079,SHOP007,Asian Cuisine,Extra vegetables,Add-on,Sample optional add-on for Vegetarian Fried Noodles; vendor verification required.,1.50,addons,SHOP007-F020,True,True,False,False,,False,579,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP007-A080,SHOP007,Asian Cuisine,Extra sauce,Add-on,Sample optional add-on for Vegetarian Fried Noodles; vendor verification required.,1.00,addons,SHOP007-F020,True,True,False,False,,False,580,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A001,SHOP008,Picante,Extra cheese,Add-on,Sample optional add-on for Chicken Chop; vendor verification required.,2.00,addons,SHOP008-F001,True,True,False,False,,False,501,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A002,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Chicken Chop; vendor verification required.,1.00,addons,SHOP008-F001,True,True,False,False,,False,502,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A003,SHOP008,Picante,Add egg,Add-on,Sample optional add-on for Chicken Chop; vendor verification required.,2.00,addons,SHOP008-F001,True,True,False,False,,False,503,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A004,SHOP008,Picante,Extra fries,Add-on,Sample optional add-on for Chicken Chop; vendor verification required.,3.00,addons,SHOP008-F001,True,True,False,False,,False,504,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A005,SHOP008,Picante,Extra cheese,Add-on,Sample optional add-on for Grilled Chicken; vendor verification required.,2.00,addons,SHOP008-F002,True,True,False,False,,False,505,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A006,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Grilled Chicken; vendor verification required.,1.00,addons,SHOP008-F002,True,True,False,False,,False,506,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A007,SHOP008,Picante,Add egg,Add-on,Sample optional add-on for Grilled Chicken; vendor verification required.,2.00,addons,SHOP008-F002,True,True,False,False,,False,507,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A008,SHOP008,Picante,Extra fries,Add-on,Sample optional add-on for Grilled Chicken; vendor verification required.,3.00,addons,SHOP008-F002,True,True,False,False,,False,508,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A009,SHOP008,Picante,Extra cheese,Add-on,Sample optional add-on for Fish and Chips; vendor verification required.,2.00,addons,SHOP008-F003,True,True,False,False,,False,509,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A010,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Fish and Chips; vendor verification required.,1.00,addons,SHOP008-F003,True,True,False,False,,False,510,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A011,SHOP008,Picante,Add egg,Add-on,Sample optional add-on for Fish and Chips; vendor verification required.,2.00,addons,SHOP008-F003,True,True,False,False,,False,511,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A012,SHOP008,Picante,Extra fries,Add-on,Sample optional add-on for Fish and Chips; vendor verification required.,3.00,addons,SHOP008-F003,True,True,False,False,,False,512,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A013,SHOP008,Picante,Extra cheese,Add-on,Sample optional add-on for Spaghetti Bolognese; vendor verification required.,2.00,addons,SHOP008-F004,True,True,False,False,,False,513,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A014,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Spaghetti Bolognese; vendor verification required.,1.00,addons,SHOP008-F004,True,True,False,False,,False,514,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A015,SHOP008,Picante,Add egg,Add-on,Sample optional add-on for Spaghetti Bolognese; vendor verification required.,2.00,addons,SHOP008-F004,True,True,False,False,,False,515,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A016,SHOP008,Picante,Extra fries,Add-on,Sample optional add-on for Spaghetti Bolognese; vendor verification required.,3.00,addons,SHOP008-F004,True,True,False,False,,False,516,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A017,SHOP008,Picante,Extra cheese,Add-on,Sample optional add-on for Carbonara; vendor verification required.,2.00,addons,SHOP008-F005,True,True,False,False,,False,517,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A018,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Carbonara; vendor verification required.,1.00,addons,SHOP008-F005,True,True,False,False,,False,518,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A019,SHOP008,Picante,Add egg,Add-on,Sample optional add-on for Carbonara; vendor verification required.,2.00,addons,SHOP008-F005,True,True,False,False,,False,519,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A020,SHOP008,Picante,Extra fries,Add-on,Sample optional add-on for Carbonara; vendor verification required.,3.00,addons,SHOP008-F005,True,True,False,False,,False,520,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A021,SHOP008,Picante,Extra cheese,Add-on,Sample optional add-on for Aglio Olio; vendor verification required.,2.00,addons,SHOP008-F006,True,True,False,False,,False,521,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A022,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Aglio Olio; vendor verification required.,1.00,addons,SHOP008-F006,True,True,False,False,,False,522,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A023,SHOP008,Picante,Add egg,Add-on,Sample optional add-on for Aglio Olio; vendor verification required.,2.00,addons,SHOP008-F006,True,True,False,False,,False,523,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A024,SHOP008,Picante,Extra fries,Add-on,Sample optional add-on for Aglio Olio; vendor verification required.,3.00,addons,SHOP008-F006,True,True,False,False,,False,524,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A025,SHOP008,Picante,Extra cheese,Add-on,Sample optional add-on for Beef Burger; vendor verification required.,2.00,addons,SHOP008-F007,True,True,False,False,,False,525,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A026,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Beef Burger; vendor verification required.,1.00,addons,SHOP008-F007,True,True,False,False,,False,526,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A027,SHOP008,Picante,Add egg,Add-on,Sample optional add-on for Beef Burger; vendor verification required.,2.00,addons,SHOP008-F007,True,True,False,False,,False,527,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A028,SHOP008,Picante,Extra fries,Add-on,Sample optional add-on for Beef Burger; vendor verification required.,3.00,addons,SHOP008-F007,True,True,False,False,,False,528,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A029,SHOP008,Picante,Extra cheese,Add-on,Sample optional add-on for Chicken Burger; vendor verification required.,2.00,addons,SHOP008-F008,True,True,False,False,,False,529,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A030,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Chicken Burger; vendor verification required.,1.00,addons,SHOP008-F008,True,True,False,False,,False,530,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A031,SHOP008,Picante,Add egg,Add-on,Sample optional add-on for Chicken Burger; vendor verification required.,2.00,addons,SHOP008-F008,True,True,False,False,,False,531,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A032,SHOP008,Picante,Extra fries,Add-on,Sample optional add-on for Chicken Burger; vendor verification required.,3.00,addons,SHOP008-F008,True,True,False,False,,False,532,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A033,SHOP008,Picante,Extra cheese,Add-on,Sample optional add-on for Grilled Sausage Set; vendor verification required.,2.00,addons,SHOP008-F009,True,True,False,False,,False,533,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A034,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Grilled Sausage Set; vendor verification required.,1.00,addons,SHOP008-F009,True,True,False,False,,False,534,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A035,SHOP008,Picante,Add egg,Add-on,Sample optional add-on for Grilled Sausage Set; vendor verification required.,2.00,addons,SHOP008-F009,True,True,False,False,,False,535,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A036,SHOP008,Picante,Extra fries,Add-on,Sample optional add-on for Grilled Sausage Set; vendor verification required.,3.00,addons,SHOP008-F009,True,True,False,False,,False,536,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A037,SHOP008,Picante,Extra portion,Add-on,Sample optional add-on for Mushroom Soup; vendor verification required.,2.50,addons,SHOP008-F010,True,True,False,False,,False,537,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A038,SHOP008,Picante,Fried egg,Add-on,Sample optional add-on for Mushroom Soup; vendor verification required.,2.00,addons,SHOP008-F010,True,True,False,False,,False,538,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A039,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Mushroom Soup; vendor verification required.,1.00,addons,SHOP008-F010,True,True,False,False,,False,539,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A040,SHOP008,Picante,Extra vegetables,Add-on,Sample optional add-on for Mushroom Soup; vendor verification required.,1.50,addons,SHOP008-F010,True,True,False,False,,False,540,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A041,SHOP008,Picante,Extra cheese,Add-on,Sample optional add-on for French Fries; vendor verification required.,2.00,addons,SHOP008-F011,True,True,False,False,,False,541,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A042,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for French Fries; vendor verification required.,1.00,addons,SHOP008-F011,True,True,False,False,,False,542,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A043,SHOP008,Picante,Add egg,Add-on,Sample optional add-on for French Fries; vendor verification required.,2.00,addons,SHOP008-F011,True,True,False,False,,False,543,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A044,SHOP008,Picante,Extra fries,Add-on,Sample optional add-on for French Fries; vendor verification required.,3.00,addons,SHOP008-F011,True,True,False,False,,False,544,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A045,SHOP008,Picante,Extra portion,Add-on,Sample optional add-on for Mashed Potato; vendor verification required.,2.50,addons,SHOP008-F012,True,True,False,False,,False,545,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A046,SHOP008,Picante,Fried egg,Add-on,Sample optional add-on for Mashed Potato; vendor verification required.,2.00,addons,SHOP008-F012,True,True,False,False,,False,546,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A047,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Mashed Potato; vendor verification required.,1.00,addons,SHOP008-F012,True,True,False,False,,False,547,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A048,SHOP008,Picante,Extra vegetables,Add-on,Sample optional add-on for Mashed Potato; vendor verification required.,1.50,addons,SHOP008-F012,True,True,False,False,,False,548,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A049,SHOP008,Picante,Extra portion,Add-on,Sample optional add-on for Nasi Lemak; vendor verification required.,2.50,addons,SHOP008-F013,True,True,False,False,,False,549,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A050,SHOP008,Picante,Fried egg,Add-on,Sample optional add-on for Nasi Lemak; vendor verification required.,2.00,addons,SHOP008-F013,True,True,False,False,,False,550,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A051,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Nasi Lemak; vendor verification required.,1.00,addons,SHOP008-F013,True,True,False,False,,False,551,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A052,SHOP008,Picante,Extra vegetables,Add-on,Sample optional add-on for Nasi Lemak; vendor verification required.,1.50,addons,SHOP008-F013,True,True,False,False,,False,552,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A053,SHOP008,Picante,Extra portion,Add-on,Sample optional add-on for Nasi Goreng Kampung; vendor verification required.,2.50,addons,SHOP008-F014,True,True,False,False,,False,553,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A054,SHOP008,Picante,Fried egg,Add-on,Sample optional add-on for Nasi Goreng Kampung; vendor verification required.,2.00,addons,SHOP008-F014,True,True,False,False,,False,554,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A055,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Nasi Goreng Kampung; vendor verification required.,1.00,addons,SHOP008-F014,True,True,False,False,,False,555,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A056,SHOP008,Picante,Extra vegetables,Add-on,Sample optional add-on for Nasi Goreng Kampung; vendor verification required.,1.50,addons,SHOP008-F014,True,True,False,False,,False,556,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A057,SHOP008,Picante,Extra noodles / rice,Add-on,Sample optional add-on for Mee Goreng; vendor verification required.,2.00,addons,SHOP008-F015,True,True,False,False,,False,557,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A058,SHOP008,Picante,Fried egg,Add-on,Sample optional add-on for Mee Goreng; vendor verification required.,2.00,addons,SHOP008-F015,True,True,False,False,,False,558,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A059,SHOP008,Picante,Extra vegetables,Add-on,Sample optional add-on for Mee Goreng; vendor verification required.,1.50,addons,SHOP008-F015,True,True,False,False,,False,559,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A060,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Mee Goreng; vendor verification required.,1.00,addons,SHOP008-F015,True,True,False,False,,False,560,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A061,SHOP008,Picante,Extra portion,Add-on,Sample optional add-on for Ayam Penyet; vendor verification required.,2.50,addons,SHOP008-F016,True,True,False,False,,False,561,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A062,SHOP008,Picante,Fried egg,Add-on,Sample optional add-on for Ayam Penyet; vendor verification required.,2.00,addons,SHOP008-F016,True,True,False,False,,False,562,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A063,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Ayam Penyet; vendor verification required.,1.00,addons,SHOP008-F016,True,True,False,False,,False,563,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A064,SHOP008,Picante,Extra vegetables,Add-on,Sample optional add-on for Ayam Penyet; vendor verification required.,1.50,addons,SHOP008-F016,True,True,False,False,,False,564,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A065,SHOP008,Picante,Extra noodles / rice,Add-on,Sample optional add-on for Chicken Rice; vendor verification required.,2.00,addons,SHOP008-F017,True,True,False,False,,False,565,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A066,SHOP008,Picante,Fried egg,Add-on,Sample optional add-on for Chicken Rice; vendor verification required.,2.00,addons,SHOP008-F017,True,True,False,False,,False,566,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A067,SHOP008,Picante,Extra vegetables,Add-on,Sample optional add-on for Chicken Rice; vendor verification required.,1.50,addons,SHOP008-F017,True,True,False,False,,False,567,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A068,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Chicken Rice; vendor verification required.,1.00,addons,SHOP008-F017,True,True,False,False,,False,568,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A069,SHOP008,Picante,Extra portion,Add-on,Sample optional add-on for Satay Set; vendor verification required.,2.50,addons,SHOP008-F018,True,True,False,False,,False,569,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A070,SHOP008,Picante,Fried egg,Add-on,Sample optional add-on for Satay Set; vendor verification required.,2.00,addons,SHOP008-F018,True,True,False,False,,False,570,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A071,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Satay Set; vendor verification required.,1.00,addons,SHOP008-F018,True,True,False,False,,False,571,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A072,SHOP008,Picante,Extra vegetables,Add-on,Sample optional add-on for Satay Set; vendor verification required.,1.50,addons,SHOP008-F018,True,True,False,False,,False,572,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A073,SHOP008,Picante,Extra noodles / rice,Add-on,Sample optional add-on for Tom Yum Fried Rice; vendor verification required.,2.00,addons,SHOP008-F019,True,True,False,False,,False,573,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A074,SHOP008,Picante,Fried egg,Add-on,Sample optional add-on for Tom Yum Fried Rice; vendor verification required.,2.00,addons,SHOP008-F019,True,True,False,False,,False,574,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A075,SHOP008,Picante,Extra vegetables,Add-on,Sample optional add-on for Tom Yum Fried Rice; vendor verification required.,1.50,addons,SHOP008-F019,True,True,False,False,,False,575,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A076,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Tom Yum Fried Rice; vendor verification required.,1.00,addons,SHOP008-F019,True,True,False,False,,False,576,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A077,SHOP008,Picante,Extra noodles / rice,Add-on,Sample optional add-on for Curry Chicken Rice; vendor verification required.,2.00,addons,SHOP008-F020,True,True,False,False,,False,577,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A078,SHOP008,Picante,Fried egg,Add-on,Sample optional add-on for Curry Chicken Rice; vendor verification required.,2.00,addons,SHOP008-F020,True,True,False,False,,False,578,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A079,SHOP008,Picante,Extra vegetables,Add-on,Sample optional add-on for Curry Chicken Rice; vendor verification required.,1.50,addons,SHOP008-F020,True,True,False,False,,False,579,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-A080,SHOP008,Picante,Extra sauce,Add-on,Sample optional add-on for Curry Chicken Rice; vendor verification required.,1.00,addons,SHOP008-F020,True,True,False,False,,False,580,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-T001,SHOP008,Picante,White Rice,Rice,Steamed rice served as a simple lunch-set base.,1.50,tray,,True,True,False,False,,True,801,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-T002,SHOP008,Picante,Butter Rice,Rice,Fragrant rice tossed with a light buttery finish.,2.50,tray,,True,True,False,False,,True,802,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-T003,SHOP008,Picante,Chicken Curry,Curry,Chicken pieces simmered in a spiced curry gravy.,5.00,tray,,True,True,False,False,,True,803,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-T004,SHOP008,Picante,Fish Curry,Curry,Fish cooked gently in a tangy curry sauce.,5.50,tray,,True,True,False,False,,True,804,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-T005,SHOP008,Picante,Mutton Curry,Curry,Tender mutton simmered in a rich curry gravy.,6.50,tray,,True,True,False,False,,True,805,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-T006,SHOP008,Picante,Vegetable Curry,Vegetarian,Mixed vegetables cooked in a mild curry sauce.,3.50,tray,,True,True,False,False,,True,806,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-T007,SHOP008,Picante,Dhal Curry,Vegetarian,Comforting lentils simmered with warming spices.,2.50,tray,,True,True,False,False,,True,807,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-T008,SHOP008,Picante,Potato Masala,Vegetarian,Soft potatoes tossed with aromatic masala spices.,3.00,tray,,True,True,False,False,,True,808,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-T009,SHOP008,Picante,Mixed Vegetables,Vegetarian,Seasonal vegetables lightly seasoned and sautéed.,3.00,tray,,True,True,False,False,,True,809,SAMPLE_NOT_VENDOR_VERIFIED
+SHOP008-T010,SHOP008,Picante,Fried Egg,Add-on,Egg fried until the edges turn lightly crisp.,2.00,tray,,True,True,False,False,,True,810,SAMPLE_NOT_VENDOR_VERIFIED
