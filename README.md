@@ -13,15 +13,15 @@ A local prototype built with **React + Tailwind CSS**, **FastAPI + Python**, and
 ## Demo accounts
 - Student: `student@mealsync.test` / `student123`
 - Vendor: `vendor@mealsync.test` / `vendor123` (assigned to SHOP001 / Chinese)
-- Administrator: `admin@mealsync.test` / the private value configured as `MEALSYNC_ADMIN_PASSWORD` in Render.
+- Administrator: `admin@mealsync.test` / `admin123`
 
-Student and vendor credentials are intended only for this demo. The administrator password is generated privately by the Render Blueprint and is not exposed in the public demo-account shortcuts.
+These demo credentials are for evaluation of this demo deployment.
 
 ## Render demo deployment
 
-The root `render.yaml` deploys the API and static frontend on Render's free plans. It generates private API and administrator secrets, checks the API at `/api/health`, and serves the full React application with client-side route rewrites. The included SQLite database contains synthetic demonstration data. Render's free instance uses temporary storage, so data changes and uploaded images can reset after a restart.
+The root `render.yaml` deploys the API and static frontend on Render's free plans. It generates the API signing secret, keeps the original demo administrator password (`admin123`), checks the API at `/api/health`, and serves the full React application with client-side route rewrites. The included SQLite database contains synthetic demonstration data. Render's free instance uses temporary storage, so data changes and uploaded images can reset after a restart.
 
-To sign in as the administrator, use `admin@mealsync.test` and the value of `MEALSYNC_ADMIN_PASSWORD` in the Render API service's Environment settings. Do not publish that password or add it to the frontend.
+To sign in as the administrator, use `admin@mealsync.test` / `admin123`. The original demo login is shown in the demo-account shortcuts.
 
 ## Run backend (Windows PowerShell)
 ```powershell

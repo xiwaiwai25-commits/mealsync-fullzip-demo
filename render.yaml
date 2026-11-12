@@ -12,7 +12,7 @@ services:
       - key: MEALSYNC_SECRET
         generateValue: true
       - key: MEALSYNC_ADMIN_PASSWORD
-        generateValue: true
+        value: admin123
       - key: MEALSYNC_ADMIN_EMAIL
         value: admin@mealsync.test
       - key: MEALSYNC_CORS_ORIGINS
