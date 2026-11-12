@@ -21,6 +21,8 @@ services:
         value: "false"
       - key: MEALSYNC_DB_PATH
         value: /tmp/mealsync-fullzip.db
+      - key: MEALSYNC_MEDIA_DIR
+        value: /tmp/mealsync-fullzip-uploads
 
   - type: web
     name: mealsync-fullzip-web-6d91c3a2

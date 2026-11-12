@@ -5,7 +5,7 @@ from typing import Optional, List
 from pathlib import Path
 from dotenv import load_dotenv
 from datetime import datetime, timedelta, date
-import sqlite3, csv, json, os, hashlib, hmac, secrets, io, uuid, base64, urllib.request, urllib.error
+import sqlite3, csv, json, os, hashlib, hmac, secrets, io, uuid, base64, urllib.request, urllib.error, shutil
 import jwt, qrcode
 from fastapi.responses import StreamingResponse, Response
 from fastapi.staticfiles import StaticFiles
@@ -14,13 +14,23 @@ from reportlab.pdfgen import canvas
 
 BASE = Path(__file__).resolve().parent
 load_dotenv(BASE / ".env")
-DB = BASE / "mealsync.db"
+SOURCE_DB = BASE / "mealsync.db"
+DB = Path(os.getenv("MEALSYNC_DB_PATH", str(SOURCE_DB)))
+if not DB.is_absolute(): DB = BASE / DB
+DB.parent.mkdir(parents=True, exist_ok=True)
+if DB.resolve() != SOURCE_DB.resolve() and not DB.exists() and SOURCE_DB.exists():
+    shutil.copy2(SOURCE_DB, DB)
 SECRET = os.getenv("MEALSYNC_SECRET", "change-this-demo-secret-before-deployment")
+if os.getenv("RENDER", "").lower() == "true" and SECRET == "change-this-demo-secret-before-deployment":
+    raise RuntimeError("Set MEALSYNC_SECRET to a generated secret before deployment.")
 app = FastAPI(title="MealSync API", version="1.1.0")
-MEDIA_DIR = BASE / "uploads"
+MEDIA_DIR = Path(os.getenv("MEALSYNC_MEDIA_DIR", str(BASE / "uploads")))
+if not MEDIA_DIR.is_absolute(): MEDIA_DIR = BASE / MEDIA_DIR
 MEDIA_DIR.mkdir(parents=True, exist_ok=True)
 app.mount("/media", StaticFiles(directory=MEDIA_DIR), name="media")
-app.add_middleware(CORSMiddleware, allow_origins=["http://localhost:5173","http://127.0.0.1:5173"], allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
+configured_origins = os.getenv("MEALSYNC_CORS_ORIGINS", "").strip()
+allowed_origins = [origin.strip() for origin in configured_origins.split(",") if origin.strip()] or ["http://localhost:5173","http://127.0.0.1:5173"]
+app.add_middleware(CORSMiddleware, allow_origins=allowed_origins, allow_credentials=False, allow_methods=["*"], allow_headers=["*"])
 
 def conn():
     c=sqlite3.connect(DB,timeout=8); c.row_factory=sqlite3.Row; c.execute("PRAGMA foreign_keys=ON"); c.execute("PRAGMA busy_timeout=8000"); return c
@@ -141,6 +151,9 @@ def init_db():
         c.execute("UPDATE users SET email=?,password_hash=?,is_active=1 WHERE id=?",
                   (admin_email,hash_pw(configured_admin_password),admin["id"]))
     c.commit()
+    if os.getenv("MEALSYNC_SEED_DEMO_DATA", "true").strip().lower() in {"0", "false", "no"}:
+        c.close()
+        return
     # Clearly labelled demo history so the prototype screens are populated.
     student=c.execute("SELECT id FROM users WHERE email='student@mealsync.test'").fetchone()
     if student and c.execute("SELECT COUNT(*) FROM orders WHERE reference LIKE 'MSDEMO%'").fetchone()[0]==0:
